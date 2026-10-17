@@ -1,0 +1,65 @@
+PATENT START — BADANIA PRZED IMPLEMENTACJĄ
+Data przeglądu: 17 października 2026 r.
+
+CEL
+Aplikacja Android do przygotowania do teorii patentu strzeleckiego. Baza autorska, nie oficjalny zbiór pytań PZSS. Nauka teorii nie zastępuje szkolenia praktycznego. Przegląd obejmuje główne rodziny metod; nie istnieje zamknięta lista wszystkich możliwych sposobów uczenia ani dowód, że jedna aplikacja będzie optymalna dla każdej osoby.
+
+1. CO WYNIKA Z BADAŃ
+
+Aktywne przypominanie i rozłożenie nauki w czasie: przegląd Dunlosky i wsp. (2013) wysoko ocenia praktyczne testowanie i praktykę rozłożoną w czasie. Samo ponowne czytanie i podkreślanie ma słabsze i bardziej zależne od warunków zastosowanie. Samowyjaśnianie, pytania „dlaczego” i przeplatanie tematów są użyteczne warunkowo. Decyzja projektowa: sesja wymaga samodzielnej próby odpowiedzi, a poprawna odpowiedź ma uzasadnienie.
+https://pubmed.ncbi.nlm.nih.gov/26173288/
+
+Odstępy: metaanaliza Cepeda i wsp. (2006) obejmuje 317 eksperymentów. Korzystny odstęp zależy m.in. od terminu sprawdzianu. Nie ma naukowej podstawy, by jeden sztywny kalendarz uznać za najlepszy dla wszystkich. Decyzja: indywidualne terminy na poziomie pytania, skracane po błędzie i odpowiedzi niepewnej. Zastosowany prosty harmonogram jest heurystyką produktu, nie walidowanym modelem pamięci.
+https://pubmed.ncbi.nlm.nih.gov/16719566/
+
+Informacja zwrotna: Butler i Roediger (2008) wykazali, że odpowiedzi mylące w testach wyboru mogą utrwalać fałszywą wiedzę; informacja zwrotna ogranicza ten problem. Decyzja: po treningowej odpowiedzi zawsze pokazujemy poprawną odpowiedź, wyjaśnienie i źródło. W symulacji egzaminu wyjaśnienia pojawiają się dopiero po zakończeniu.
+https://pubmed.ncbi.nlm.nih.gov/18491500/
+
+Pewność: Butler, Karpicke i Roediger (2008) wskazują na korzyść z informacji zwrotnej także po poprawnych odpowiedziach udzielonych z niską pewnością. Decyzja: trafne zgadywanie nie jest traktowane jak trwałe opanowanie materiału; użytkownik określa pewność przed sprawdzeniem.
+https://pubmed.ncbi.nlm.nih.gov/18605878/
+
+Transfer: badania nad testowaniem i przenoszeniem wiedzy wspierają ćwiczenie rozumienia, choć wpływ informacji zwrotnej i ekspozycji na treść trzeba oddzielić od samego testowania. Decyzja: oprócz definicji stosujemy scenariusze, rozróżnianie podobnych pojęć i odtwarzanie odpowiedzi przed pokazaniem wariantów.
+https://pubmed.ncbi.nlm.nih.gov/28082930/
+
+Przeplatanie: wyniki zależą od materiału i umiejętności. Wprowadzanie wszystkiego losowo od pierwszej sesji nie jest bezwarunkowo lepsze. Decyzja: nauka działami oraz mieszane powtórki po wstępnym poznaniu materiału. Związek wyników badań matematycznych z testem patentowym jest pośredni.
+https://pubmed.ncbi.nlm.nih.gov/30877483/
+
+2. MAPA KONSTRUOWANIA PYTAŃ
+
+Przejrzane rodziny: jedna najlepsza odpowiedź, wielokrotny wybór, prawda/fałsz, krótka odpowiedź, fiszka z samodzielnym przypomnieniem, uzupełnienie luki, dopasowanie pojęć, porządkowanie, pytanie o ilustrację, przypadek sytuacyjny, rozróżnianie podobnych reguł, wykrywanie błędu, uzasadnienie „dlaczego”, pytanie odwrócone oraz serie pytań do wspólnego opisu.
+
+To katalog możliwości projektowych, a nie twierdzenie, że wszystkie formaty występują na egzaminie PZSS lub wszystkie mają jednakową skuteczność. W wersji instalacyjnej: pytania jednokrotnego wyboru (w tym przypadki i rozróżnienia), tryb przypominania bez widocznych odpowiedzi i powtórki. Nie generujemy losowo nowych treści prawnych na telefonie.
+
+Wskazówki NBME adaptowane do tej dziedziny: jedno zagadnienie w pytaniu, jasna treść, jedna bezsporna najlepsza odpowiedź, wiarygodne i jednorodne odpowiedzi błędne, brak podpowiedzi gramatycznych. Unikamy podwójnych przeczeń, „wszystkich powyższych” i sztucznych pułapek. Mieszamy pozycję poprawnej odpowiedzi. Podręcznik dotyczy egzaminów medycznych; jego zasady redakcyjne nie potwierdzają skuteczności konkretnej bazy strzeleckiej.
+https://www.nbme.org/sites/default/files/2021-02/NBME_Item%20Writing%20Guide_R_6.pdf
+
+3. ZASADY EGZAMINU I ŹRÓDŁA
+
+PZSS, regulamin obowiązujący od 1 lipca 2025 r., § 19: 10 pytań, po 2 z pięciu działów; 20 minut; co najmniej 9 poprawnych odpowiedzi oraz bezbłędne pierwsze cztery pytania dotyczące ustawy i bezpieczeństwa. Aplikacja odtwarza te warunki i oddzielnie raportuje błąd krytyczny. Reguły wymagają kontroli po każdej zmianie regulaminu.
+https://www.pzss.org.pl/patenty-licencje/terminy-egzaminow
+https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patent-strzelecki-2025.pdf
+
+Prawo: ELI Kancelarii Sejmu, ustawa o broni i amunicji — tekst ujednolicony D19990549Lj.pdf, metadane aktu DU/1999/549 i akty zmieniające. Sam tekst jednolity z 2024 r. nie wystarcza do potwierdzenia stanu na 2026 r. Sprawdzono nowelizację DU/2025/1795 art. 109 (zmiana odesłań weterynaryjnych) oraz DU/2026/187 art. 137: zmiana dotycząca psychologów w UoBiA wchodzi według relacji ELI w życie 19 maja 2028 r. Nie należy stosować jej przedwcześnie.
+https://api.sejm.gov.pl/eli/acts/DU/1999/549
+https://api.sejm.gov.pl/eli/acts/DU/1999/549/text/U/D19990549Lj.pdf
+https://api.sejm.gov.pl/eli/acts/DU/2025/1795/text.pdf
+https://api.sejm.gov.pl/eli/acts/DU/2026/187/text.pdf
+
+Kodeks karny: aktualny tekst ujednolicony ELI; zweryfikowano art. 25, 26 i 263. Przechowywanie: rozporządzenie DU/2014/1224 § 5. Regulamin strzelnic DU/2000/234 z późniejszymi zmianami — pytania nie korzystają ze zmienionych historycznych pól książki rejestru.
+https://api.sejm.gov.pl/eli/acts/DU/1997/553/text/U/D19970553Lj.pdf
+https://eli.gov.pl/eli/DU/2014/1224/ogl
+https://eli.gov.pl/eli/DU/2000/234/ogl
+
+Bezpieczeństwo: Ogólne zasady bezpieczeństwa w sporcie strzeleckim, PZSS, uchwała 17.11.2019, zwłaszcza § 3. Przepisy sportowe: ISSF 2026, Second Print 07/2026, obowiązujące od 1.07.2026, wraz z krajowymi komunikatami PZSS. Starsze opisy konkurencji na stronach informacyjnych mogą być nieaktualne.
+https://www.pzss.org.pl/assets/files/licencyjno-patentowa/ogolne-zasady-bezpieczenstwa-w-sporcie-strzeleckim.pdf
+https://www.pzss.org.pl/sedziowie/przepisy-issf-i-interpretacje
+https://www.pzss.org.pl/aktualnosci/wytyczne-dla-organizatorow-zawodow-z-kalendarza-pzss
+
+4. UTRZYMANIE AKTUALNOŚCI — WARUNKI TECHNICZNE
+
+Pytania mają identyfikator, dział, uzasadnienie, jednostkę redakcyjną, zależne źródła oraz datę weryfikacji. Telefon sprawdza metadane ELI i skróty dokumentów PZSS/ISSF przy uruchomieniu, ręcznie i okresowo w tle. Android może opóźniać zadania w tle. Brak sieci nie oznacza aktualności. Zmiana źródła powoduje wycofanie zależnych pytań z nauki i blokadę symulacji, jeśli dział ma za mało aktualnych pytań.
+
+Monitor wykrywa zmianę dokumentu; nie jest oceną prawną. Odblokowanie wymaga przeglądu i wydania nowego podpisanego pakietu. Pakiet może zmienić bazę bez reinstalacji aplikacji. Aplikacja weryfikuje podpis i wersję, nie przyjmuje obcego klucza ani starszego wydania. Zmienione pytania otrzymują nową rewizję, dzięki czemu dawne wyniki nie udają opanowania nowej treści.
+
+Bezpłatny kanał dystrybucji: GitHub Pages w publicznym repozytorium. Potrzebne konto właściciela i włączenie publikacji. Publikujemy pytania i manifest, bez prywatnych wyników użytkownika i bez kluczy podpisujących. Sam kod bez skonfigurowanego hostingu nie stanowi działającego automatycznego kanału aktualizacji.
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
