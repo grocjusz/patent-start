@@ -63,3 +63,19 @@ Monitor wykrywa zmianę dokumentu; nie jest oceną prawną. Odblokowanie wymaga 
 
 Bezpłatny kanał dystrybucji: GitHub Pages w publicznym repozytorium. Potrzebne konto właściciela i włączenie publikacji. Publikujemy pytania i manifest, bez prywatnych wyników użytkownika i bez kluczy podpisujących. Sam kod bez skonfigurowanego hostingu nie stanowi działającego automatycznego kanału aktualizacji.
 https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+
+UZUPEŁNIENIE WYDANIA 1.1.0 — 17.10.2026
+185 pytań. Opracowano zakres każdej z 142 pozycji opublikowanego wykazu:
+https://www.pzss.org.pl/assets/files/licencyjno-patentowa/pytania-egzaminacyjne-na-patent-strzelcki-1.pdf
+Wykaz zawiera tylko pytania, bez odpowiedzi i klucza. Warianty aplikacji
+są autorskie, powiązane przez officialNumbers. Powtórzenia w wykazie mogą
+mieć wspólny wariant. To pokrycie zakresu wykazu, a nie gwarancja pełnego
+zbioru wszystkich możliwych przyszłych pytań.
+Sprawdzono dodatkowo transport (2000/390, zm. 2011/1410) oraz depozyty
+(2004/1609). Nowelizacja 2026/1317, obowiązująca od 24.10.2026, zmienia
+§ 10; nie zmienia sprawdzanej zasady dostępu z § 8. Definicje zapłonu
+i wagomiaru: słownik SAAMI https://saami.org/glossary/ .
+Promesa: art. 12 UoBiA; potwierdzenie bezterminowości w oficjalnej informacji:
+https://lodzka.policja.gov.pl/el7/pozwolenia-na-bron/434%2CPozwolenia-na-bron.html
+Limity pistoletów zweryfikowano też wizualnie w tabeli ISSF 8.12 (str. 375).
+Monitor sprawdza teraz również PDF wykazu i stronę z jego odsyłaczem.
