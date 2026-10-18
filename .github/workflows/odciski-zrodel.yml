@@ -1,0 +1,31 @@
+name: Odciski źródeł
+# Liczy odciski źródeł oznaczonych PENDING (tools/refresh-sources.mjs) i zapisuje je w bazie.
+# Nie korzysta z kluczy podpisujących.
+on:
+  push:
+    branches: [audyt-poprawki-pilne]
+    paths: [src/app/assets/bank.json, .github/workflows/odciski-zrodel.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  odciski:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Odciski i testy
+        working-directory: src
+        run: |
+          node tools/refresh-sources.mjs
+          node tools/test.mjs
+      - name: Zapis wyniku
+        run: |
+          if git diff --quiet; then echo "Bez zmian"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/app/assets/bank.json src/tools/source-refresh-log.json
+          git commit -m "Odciski źródeł po przeglądzie (automatycznie)"
+          git push
