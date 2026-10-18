@@ -1,0 +1,4241 @@
+[
+  {
+    "id": "P001",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 9 ust. 1",
+    "q": "Który organ co do zasady wydaje cywilnej osobie pozwolenie na broń palną sportową?",
+    "answers": [
+      "Komendant wojewódzki Policji właściwy dla miejsca stałego pobytu.",
+      "Komendant powiatowy Policji właściwy dla miejsca stałego pobytu.",
+      "Komendant wojewódzki Policji właściwy dla miejsca zakupu broni."
+    ],
+    "correct": 0,
+    "why": "Właściwość wynika z miejsca stałego pobytu; ustawa odrębnie reguluje żołnierzy zawodowych.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "P002",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 9 ust. 6",
+    "q": "Na jaki okres wydawane jest pozwolenie na broń?",
+    "answers": [
+      "Na czas nieokreślony.",
+      "Na okres pięciu lat.",
+      "Na okres dziesięciu lat."
+    ],
+    "correct": 0,
+    "why": "Pozwolenie jest bezterminowe, ale może zostać cofnięte w ustawowych przypadkach.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "P003",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10 ust. 3 pkt 3",
+    "q": "Co stanowi ważną przyczynę posiadania broni do celów sportowych?",
+    "answers": [
+      "Członkostwo w stowarzyszeniu strzeleckim, kwalifikacje sportowe i licencja związku.",
+      "Członkostwo w stowarzyszeniu strzeleckim, kwalifikacje sportowe i uprawnienia prowadzącego.",
+      "Członkostwo w stowarzyszeniu strzeleckim, licencja związku i udokumentowane zagrożenie osobiste."
+    ],
+    "correct": 0,
+    "why": "Ustawa łączy trzy przesłanki. Sam patent nie wyczerpuje tej podstawy.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      53
+    ]
+  },
+  {
+    "id": "P004",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 10b ust. 3",
+    "q": "Czy patent strzelecki sam w sobie jest pozwoleniem na posiadanie własnej broni palnej?",
+    "answers": [
+      "Nie; potwierdza kwalifikacje do ubiegania się o pozwolenie sportowe.",
+      "Tak; zastępuje pozwolenie na broń w dyscyplinach wpisanych do patentu.",
+      "Tak; po uzyskaniu licencji daje prawo posiadania broni bez decyzji Policji."
+    ],
+    "correct": 0,
+    "why": "Dokument kwalifikacji i decyzja o pozwoleniu pełnią różne funkcje.",
+    "form": "Rozróżnienie",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "P005",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 12 ust. 1",
+    "q": "W jakiej formie wydaje się pozwolenie na broń?",
+    "answers": [
+      "Decyzją administracyjną organu.",
+      "Postanowieniem administracyjnym.",
+      "Zaświadczeniem wydanym przez organ."
+    ],
+    "correct": 0,
+    "why": "Decyzja określa cel, rodzaj i liczbę egzemplarzy broni.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "P006",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 13 ust. 1",
+    "q": "W jakim terminie nabywca broni wymagającej pozwolenia ma ją zarejestrować?",
+    "answers": [
+      "W ciągu 5 dni od nabycia.",
+      "W ciągu 7 dni od nabycia.",
+      "W ciągu 14 dni od nabycia."
+    ],
+    "correct": 0,
+    "why": "Termin liczy się od nabycia, a nie od rozpoczęcia korzystania.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      5,
+      29
+    ]
+  },
+  {
+    "id": "P007",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 13 ust. 2",
+    "q": "Jaki dokument stanowi podstawę rejestracji nabytej broni?",
+    "answers": [
+      "Dowód nabycia konkretnego egzemplarza broni.",
+      "Zaświadczenie uprawniające do nabycia broni.",
+      "Decyzja o udzieleniu pozwolenia na broń."
+    ],
+    "correct": 0,
+    "why": "Ustawa wskazuje dowód nabycia; dla broni pozbawionej cech użytkowych są dodatkowe wymagania.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      44
+    ]
+  },
+  {
+    "id": "P008",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 14",
+    "q": "Do jakiej broni można nabyć amunicję na podstawie legitymacji posiadacza broni?",
+    "answers": [
+      "Do broni wskazanej w legitymacji posiadacza broni.",
+      "Do rodzajów broni objętych jego pozwoleniem.",
+      "Do broni w dyscyplinach wskazanych w jego patencie."
+    ],
+    "correct": 0,
+    "why": "Uprawnienie wiąże się z bronią wskazaną w dokumencie.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      3
+    ]
+  },
+  {
+    "id": "P009",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 25",
+    "q": "Po stwierdzeniu utraty broni kiedy należy zawiadomić Policję albo Żandarmerię Wojskową?",
+    "answers": [
+      "Niezwłocznie, najpóźniej w ciągu 24 godzin od stwierdzenia utraty.",
+      "Niezwłocznie, najpóźniej w ciągu 48 godzin od stwierdzenia utraty.",
+      "Niezwłocznie, najpóźniej w ciągu 7 dni od stwierdzenia utraty."
+    ],
+    "correct": 0,
+    "why": "24 godziny to granica maksymalna, a nie zachęta do zwlekania.",
+    "form": "Sytuacja",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      37
+    ]
+  },
+  {
+    "id": "P010",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 26",
+    "q": "W jakim terminie zgłasza się zmianę miejsca stałego pobytu?",
+    "answers": [
+      "Pisemnie, w ciągu 14 dni, organowi właściwemu dla nowego miejsca.",
+      "Pisemnie, w ciągu 14 dni, organowi właściwemu dla poprzedniego miejsca.",
+      "Pisemnie, w ciągu 7 dni, organowi właściwemu dla nowego miejsca."
+    ],
+    "correct": 0,
+    "why": "Właściwy jest organ dla nowego miejsca stałego pobytu.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      33
+    ]
+  },
+  {
+    "id": "P011",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 28",
+    "q": "Komu można użyczyć broni odpowiadającej celom sportowym oraz amunicji do niej?",
+    "answers": [
+      "Posiadaczowi pozwolenia sportowego lub łowieckiego.",
+      "Posiadaczowi pozwolenia sportowego lub kolekcjonerskiego.",
+      "Posiadaczowi pozwolenia łowieckiego lub pamiątkowego."
+    ],
+    "correct": 0,
+    "why": "Sam patent albo członkostwo nie zastępuje wskazanego w ustawie pozwolenia.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      9
+    ]
+  },
+  {
+    "id": "P012",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 32 ust. 1",
+    "q": "Jaką zasadę ma spełniać przechowywanie i noszenie broni oraz amunicji?",
+    "answers": [
+      "Uniemożliwiać dostęp osobom nieuprawnionym.",
+      "Uniemożliwiać dostęp osobom niepełnoletnim.",
+      "Uniemożliwiać dostęp osobom bez patentu strzeleckiego."
+    ],
+    "correct": 0,
+    "why": "To ogólna zasada ustawowa, uszczegółowiona w rozporządzeniu.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "P013",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "storage",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "rozporządzenie DU/2014/1224, § 5 ust. 1",
+    "q": "Jaka jest minimalna klasa urządzenia do przechowywania broni sportowej przez osobę posiadającą pozwolenie?",
+    "answers": [
+      "S1 według PN-EN 14450.",
+      "S2 według PN-EN 14450.",
+      "Klasa 0 według PN-EN 1143-1."
+    ],
+    "correct": 0,
+    "why": "Dla takiego przechowywania rozporządzenie wymaga co najmniej klasy S1.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      36
+    ]
+  },
+  {
+    "id": "P014",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 45",
+    "q": "Gdzie można używać broni zdolnej razić cel na odległość w celach sportowych i szkoleniowych?",
+    "answers": [
+      "Wyłącznie na terenie strzelnic.",
+      "Na strzelnicach i terenach klubowych.",
+      "Na strzelnicach i w obwodach łowieckich."
+    ],
+    "correct": 0,
+    "why": "Ustawa ogranicza takie używanie do strzelnic.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      10
+    ]
+  },
+  {
+    "id": "P015",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 11 pkt 2",
+    "q": "Czy używanie broni w celach sportowych na strzelnicy działającej na podstawie zezwolenia wymaga własnego pozwolenia?",
+    "answers": [
+      "Nie; ustawa zwalnia takie używanie z obowiązku własnego pozwolenia.",
+      "Tak; zwolnienie obejmuje broń pneumatyczną, a nie broń palną.",
+      "Tak; zwolnienie obejmuje zawody, ale nie zwykły trening sportowy."
+    ],
+    "correct": 0,
+    "why": "Wyjątek dotyczy używania na strzelnicy; nie jest zgodą na zabranie cudzej broni do domu.",
+    "form": "Rozróżnienie",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      39
+    ]
+  },
+  {
+    "id": "P016",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 15 ust. 1 pkt 1 i ust. 2",
+    "q": "Jaki jest zasadniczy minimalny wiek uzyskania pozwolenia na broń, z zastrzeżeniem ustawowego wyjątku?",
+    "answers": [
+      "21 lat.",
+      "18 lat.",
+      "20 lat."
+    ],
+    "correct": 0,
+    "why": "Ustawa dopuszcza szczególny tryb od 18 lat dla broni do celów sportowych lub łowieckich na odpowiedni wniosek.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      40
+    ]
+  },
+  {
+    "id": "P017",
+    "revision": 4,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 5 ust. 1–2",
+    "q": "Jak ustawa traktuje gotowe lub obrobione istotne części broni i amunicji?",
+    "answers": [
+      "Jak broń lub amunicję, także gdy występują oddzielnie.",
+      "Jak broń lub amunicję dopiero po zmontowaniu w sprawną całość.",
+      "Jak broń lub amunicję dopiero po nadaniu numeru i zarejestrowaniu."
+    ],
+    "correct": 0,
+    "why": "Kwalifikacja obejmuje istotne części broni i istotne części amunicji, nawet występujące oddzielnie.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      15
+    ]
+  },
+  {
+    "id": "P018",
+    "revision": 4,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 8",
+    "q": "Co opisuje ustawową broń pneumatyczną?",
+    "answers": [
+      "Urządzenie miotające pocisk sprężonym gazem z lufy, o energii wylotowej ponad 17 J.",
+      "Urządzenie miotające pocisk sprężonym gazem z lufy, o energii wylotowej co najmniej 17 J.",
+      "Urządzenie miotające pocisk sprężonym gazem z lufy, o energii wylotowej nie większej niż 17 J."
+    ],
+    "correct": 0,
+    "why": "Art. 8 łączy działanie sprężonego gazu, lufę i energię kinetyczną pocisku przekraczającą 17 J. Dokładnie 17 J nie przekracza tego progu.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      7
+    ]
+  },
+  {
+    "id": "P019",
+    "revision": 3,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10 ust. 9",
+    "q": "Co w ustawie oznacza noszenie broni?",
+    "answers": [
+      "Każdy sposób przemieszczania załadowanej broni przez jej posiadacza.",
+      "Każdy sposób przemieszczania rozładowanej broni poza miejscem przechowywania.",
+      "Przemieszczanie broni przez posiadacza wyłącznie z nabojem w komorze."
+    ],
+    "correct": 0,
+    "why": "Ustawowa definicja noszenia zależy od załadowania, nie od potocznej nazwy czynności.",
+    "form": "Rozróżnienie",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      48
+    ]
+  },
+  {
+    "id": "P020",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 10 ust. 8",
+    "q": "Co jest wymagane do noszenia broni posiadanej do celów kolekcjonerskich?",
+    "answers": [
+      "Zgoda właściwego organu Policji na noszenie broni.",
+      "Ważna licencja zawodnicza posiadacza broni.",
+      "Europejska karta broni palnej posiadacza broni."
+    ],
+    "correct": 0,
+    "why": "Ustawa wymaga zgody właściwego organu na noszenie broni kolekcjonerskiej i pamiątkowej.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "B001",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "safety"
+    ],
+    "ref": "§ 3 pkt 2",
+    "q": "Kolega podaje broń i zapewnia, że jest rozładowana. Co wynika z zasad PZSS?",
+    "answers": [
+      "Sprawdzić rozładowanie po wzięciu broni, także po zapewnieniu poprzedniego użytkownika.",
+      "Sprawdzić rozładowanie dopiero po zajęciu stanowiska strzeleckiego.",
+      "Sprawdzić rozładowanie tylko wtedy, gdy poprzedni użytkownik tego nie zrobił."
+    ],
+    "correct": 0,
+    "why": "Osobista kontrola jest wymagana po wzięciu broni do ręki.",
+    "form": "Sytuacja",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "B002",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "safety",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 3 pkt 3",
+    "q": "Czy można skierować wylot lufy w stronę osoby, gdy broń jest rozładowana?",
+    "answers": [
+      "Nie; także rozładowanej broni nie kieruje się w stronę człowieka.",
+      "Tak; jeśli rozładowanie sprawdził prowadzący, a komora pozostaje otwarta.",
+      "Tak; jeśli wprowadzono wskaźnik bezpieczeństwa i wyjęto magazynek."
+    ],
+    "correct": 0,
+    "why": "Zakaz kierowania lufy do ludzi nie zależy od przekonania o stanie broni.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      83
+    ]
+  },
+  {
+    "id": "B003",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "safety",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 3 pkt 4",
+    "q": "Gdzie z zasady dozwolony jest trening bezstrzałowy?",
+    "answers": [
+      "Na stanowisku lub w miejscu wyznaczonym za zgodą prowadzącego.",
+      "Na stanowisku lub za linią strzelań, po rozładowaniu broni.",
+      "Na stanowisku lub w strefie widzów, ze wskaźnikiem bezpieczeństwa."
+    ],
+    "correct": 0,
+    "why": "Miejsce treningu wyznacza organizacja bezpiecznego strzelania.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      73
+    ]
+  },
+  {
+    "id": "B004",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "safety"
+    ],
+    "ref": "§ 3 pkt 5",
+    "q": "Które stwierdzenie o dozorze broni podczas przerwy jest zgodne z zasadami PZSS?",
+    "answers": [
+      "Rozładowana broń również musi pozostawać pod dozorem.",
+      "Rozładowana broń z otwartym zamkiem może pozostać bez dozoru.",
+      "Rozładowana broń ze wskaźnikiem może pozostać bez dozoru."
+    ],
+    "correct": 0,
+    "why": "PZSS zabrania pozostawiania broni bez dozoru.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "B005",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "safety",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 3 pkt 6",
+    "q": "Co mówią zasady PZSS o odkładaniu załadowanej broni w przerwie?",
+    "answers": [
+      "Zabronione, także przy włączonym bezpieczniku i zachowaniu kierunku bezpiecznego.",
+      "Dozwolone po zabezpieczeniu mechanizmu spustowego, przy zachowaniu kierunku bezpiecznego.",
+      "Dozwolone po wyjęciu magazynka bez opróżnienia komory, przy zachowaniu kierunku bezpiecznego."
+    ],
+    "correct": 0,
+    "why": "Przerwa nie uchyla obowiązku bezpiecznego stanu broni.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      69
+    ]
+  },
+  {
+    "id": "B006",
+    "revision": 4,
+    "cat": 1,
+    "sources": [
+      "safety",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 3 pkt 7",
+    "q": "Kiedy i gdzie wolno ładować broń podczas strzelania według zasad PZSS?",
+    "answers": [
+      "Na stanowisku, z lufą w kulochwyt, po komendzie prowadzącego.",
+      "Na stanowisku, z lufą w kulochwyt, od rozpoczęcia czasu przygotowawczego.",
+      "Na stanowisku, z lufą w kulochwyt, po indywidualnym zgłoszeniu gotowości."
+    ],
+    "correct": 0,
+    "why": "Ładowanie odbywa się po komendzie „ŁADUJ”, na stanowisku, z lufą w kulochwyt. Sama komenda ładowania nie oznacza zezwolenia na rozpoczęcie strzelania.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      72,
+      78
+    ]
+  },
+  {
+    "id": "B007",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "safety",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 3 pkt 9",
+    "q": "Słyszysz sygnał STOP w trakcie serii. Jak należy zareagować?",
+    "answers": [
+      "Przerwać natychmiast, także w środku rozpoczętej serii.",
+      "Przerwać po oddaniu strzału już przygotowanego do wykonania.",
+      "Przerwać po zakończeniu aktualnej serii pięciostrzałowej."
+    ],
+    "correct": 0,
+    "why": "STOP działa natychmiast, niezależnie od pozostałego czasu i amunicji.",
+    "form": "Sytuacja",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      71,
+      76
+    ]
+  },
+  {
+    "id": "B008",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "safety"
+    ],
+    "ref": "§ 3 pkt 11",
+    "q": "Do jakich rodzajów broni odnoszą się zasady PZSS o obowiązkowym wskaźniku bezpieczeństwa?",
+    "answers": [
+      "Pistolety, karabiny i strzelby gładkolufowe.",
+      "Pistolety i karabiny, z wyłączeniem strzelb.",
+      "Broń palna, z wyłączeniem broni pneumatycznej."
+    ],
+    "correct": 0,
+    "why": "Zasady PZSS obejmują wszystkie trzy wymienione rodzaje.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "B009",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "safety",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 3 pkt 14",
+    "q": "Co należy zrobić przed opuszczeniem stanowiska po zakończeniu strzelania?",
+    "answers": [
+      "Rozładować, wprowadzić wskaźnik i przedstawić broń do kontroli.",
+      "Rozładować, zamknąć zamek i przedstawić broń do kontroli.",
+      "Wyjąć magazynek, zabezpieczyć i schować broń bez kontroli komory."
+    ],
+    "correct": 0,
+    "why": "Przed opuszczeniem stanowiska PZSS wymaga kontroli bezpiecznego stanu broni.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      75,
+      79
+    ]
+  },
+  {
+    "id": "B010",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "safety"
+    ],
+    "ref": "§ 3 pkt 15",
+    "q": "Zauważasz sytuację mogącą spowodować wypadek. Co nakazują zasady PZSS?",
+    "answers": [
+      "Niezwłocznie powiadomić prowadzącego strzelanie.",
+      "Powiadomić prowadzącego po zakończeniu aktualnej serii.",
+      "Powiadomić prowadzącego przy końcowej kontroli broni."
+    ],
+    "correct": 0,
+    "why": "Szybkie zgłoszenie zagrożenia jest obowiązkiem osoby przebywającej na strzelnicy.",
+    "form": "Sytuacja",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "B011",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "safety",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 3 pkt 18",
+    "q": "Czy osoba pod wpływem alkoholu może przebywać na strzelnicy jako obserwator?",
+    "answers": [
+      "Nie; zakaz dotyczy także obserwatorów.",
+      "Tak; poza stanowiskami strzeleckimi.",
+      "Tak; pod opieką trzeźwego uczestnika."
+    ],
+    "correct": 0,
+    "why": "Zakaz nie ogranicza się do osób strzelających.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      64
+    ]
+  },
+  {
+    "id": "B012",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "safety"
+    ],
+    "ref": "§ 3 pkt 19",
+    "q": "Pod jakim warunkiem dzieci mogą przebywać na strzelnicy?",
+    "answers": [
+      "Pod bezpośrednim nadzorem rodzica lub opiekuna.",
+      "Pod ogólnym nadzorem prowadzącego, bez opiekuna.",
+      "Pod nadzorem uczestnika, któremu nie powierzono opieki."
+    ],
+    "correct": 0,
+    "why": "Zasady wymagają bezpośredniego nadzoru.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "B013",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. 3 pkt 4",
+    "q": "Kto według wzorcowego regulaminu może wydać komendę STOP?",
+    "answers": [
+      "Każda osoba, także uczestnik lub obserwator.",
+      "Prowadzący lub sędzia, z wyłączeniem uczestników.",
+      "Prowadzący lub instruktor, z wyłączeniem obserwatorów."
+    ],
+    "correct": 0,
+    "why": "Strzelający bezzwłocznie przerywają strzelanie także po komendzie innej osoby.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      66
+    ]
+  },
+  {
+    "id": "B014",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range"
+    ],
+    "ref": "załącznik, rozdz. 3 pkt 2",
+    "q": "Kiedy można wejść przed stanowisko strzeleckie?",
+    "answers": [
+      "Po uzyskaniu zgody prowadzącego strzelanie.",
+      "Po rozładowaniu broni na własnym stanowisku.",
+      "Po zakończeniu strzelania przez sąsiadów."
+    ],
+    "correct": 0,
+    "why": "Sama obserwacja innych osób nie zastępuje zgody prowadzącego.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "B015",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. 2 pkt 2",
+    "q": "Kiedy wyjmuje się broń na strzelnicy?",
+    "answers": [
+      "Na stanowisku strzeleckim lub treningowym, na polecenie prowadzącego.",
+      "Na stanowisku strzeleckim lub treningowym, po samodzielnym sprawdzeniu osi.",
+      "Na stanowisku strzeleckim lub treningowym, po rozpoczęciu przygotowania bez komendy."
+    ],
+    "correct": 0,
+    "why": "Regulamin określa zarówno miejsce, jak i polecenie prowadzącego.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      65
+    ]
+  },
+  {
+    "id": "B016",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range"
+    ],
+    "ref": "załącznik, rozdz. 2 pkt 4",
+    "q": "Co uprawnia do rozpoczęcia strzelania?",
+    "answers": [
+      "Komenda prowadzącego zezwalająca na rozpoczęcie strzelania.",
+      "Komenda prowadzącego zezwalająca na ładowanie broni.",
+      "Zajęcie stanowiska i zgłoszenie gotowości prowadzącemu."
+    ],
+    "correct": 0,
+    "why": "Rozpoczęcie następuje wyłącznie na komendę prowadzącego.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "B017",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. 1 pkt 2 ppkt 2",
+    "q": "Jaki warunek wynika z zakazu używania broni innej osoby korzystającej ze strzelnicy?",
+    "answers": [
+      "Zgoda osoby korzystającej z tej broni.",
+      "Zgoda samego prowadzącego strzelanie.",
+      "Pozwolenie na ten rodzaj broni."
+    ],
+    "correct": 0,
+    "why": "Wzorcowy regulamin wymaga zgody użytkownika; pozostałe zasady bezpieczeństwa nadal obowiązują.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      63
+    ]
+  },
+  {
+    "id": "B018",
+    "revision": 3,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. 3 pkt 6, w brzmieniu DU/2002/238",
+    "q": "Jakie działanie wobec osoby naruszającej regulamin dopuszcza wzorcowy regulamin strzelnic?",
+    "answers": [
+      "Można usunąć tę osobę ze strzelnicy.",
+      "Trzeba ją usunąć po każdym naruszeniu.",
+      "Można usunąć po trzech ostrzeżeniach."
+    ],
+    "correct": 0,
+    "why": "Usunięcie to możliwość przewidziana w aktualnym brzmieniu tego przepisu.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      74
+    ]
+  },
+  {
+    "id": "B019",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range"
+    ],
+    "ref": "§ 4",
+    "q": "Kto opracowuje regulamin konkretnej strzelnicy na podstawie wzorca?",
+    "answers": [
+      "Właściciel lub zarządca strzelnicy.",
+      "Właściwy komendant powiatowy Policji.",
+      "Wójt, burmistrz lub prezydent miasta właściwy dla strzelnicy."
+    ],
+    "correct": 0,
+    "why": "Może też określić dodatkowe warunki bezpieczeństwa.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R001",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "6.2.2.2",
+    "q": "Jaką długość ma mieć linka bezpieczeństwa w broni pneumatycznej według ISSF?",
+    "answers": [
+      "Przez całą długość przewodu lufy.",
+      "Od komory do połowy długości lufy.",
+      "Od wylotu do połowy długości lufy."
+    ],
+    "correct": 0,
+    "why": "Pełna długość potwierdza brak śrutu w przewodzie lufy.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R002",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "6.2.2.2",
+    "q": "Jak według ISSF wykazuje się rozładowanie strzelby, również stojącej w stojaku?",
+    "answers": [
+      "Przez pozostawienie otwartego mechanizmu broni.",
+      "Przez zamknięcie mechanizmu i włączenie bezpiecznika.",
+      "Przez zamknięcie mechanizmu i ustne potwierdzenie pustych komór."
+    ],
+    "correct": 0,
+    "why": "ISSF wymaga otwartej strzelby jako widocznego potwierdzenia stanu.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R003",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "6.2.3.6",
+    "q": "Po STOP kiedy według ISSF można ponownie rozpocząć strzelanie?",
+    "answers": [
+      "Po kolejnej komendzie START lub READY.",
+      "Po kolejnej komendzie LOAD.",
+      "Po kolejnej komendzie UNLOAD."
+    ],
+    "correct": 0,
+    "why": "Wznowienie wymaga właściwej komendy.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R004",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "6.2.4.2",
+    "q": "Kto odpowiada za ważność butli na sprężone powietrze lub CO₂ używanej przez zawodnika?",
+    "answers": [
+      "Zawodnik korzystający z butli.",
+      "Sędzia kontroli wyposażenia.",
+      "Organizator zawodów."
+    ],
+    "correct": 0,
+    "why": "ISSF przypisuje tę odpowiedzialność zawodnikowi.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R005",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "6.3.3.1",
+    "q": "Jaka jest najwyższa wartość pojedynczego strzału w punktacji dziesiętnej tarcz karabinowych i pistoletowych ISSF?",
+    "answers": [
+      "10,9.",
+      "10,5.",
+      "10,0."
+    ],
+    "correct": 0,
+    "why": "Pierścień dzieli się na dziesięć stref od wartości z końcówką ,0 do ,9.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R006",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "6.3.4.3",
+    "q": "Jaką średnicę nominalną ma dziesiątka tarczy do karabinu pneumatycznego 10 m?",
+    "answers": [
+      "0,5 mm.",
+      "5,0 mm.",
+      "10,4 mm."
+    ],
+    "correct": 0,
+    "why": "Dane dotyczą tarczy karabinowej 10 m; tarcza pistoletowa ma inne wymiary.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R007",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "6.3.4.2",
+    "q": "Jaką średnicę nominalną ma dziesiątka tarczy karabinowej 50 m?",
+    "answers": [
+      "10,4 mm.",
+      "11,5 mm.",
+      "12,4 mm."
+    ],
+    "correct": 0,
+    "why": "Nie należy mylić jej z dziesiątką wewnętrzną o średnicy 5 mm.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R008",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "6.3.4.4",
+    "q": "Jaką średnicę nominalną ma dziesiątka tarczy do pistoletu szybkostrzelnego 25 m?",
+    "answers": [
+      "100 mm.",
+      "50 mm.",
+      "150 mm."
+    ],
+    "correct": 0,
+    "why": "To tarcza do strzelań szybkich, a nie tarcza precyzyjna.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R009",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "8.4.2",
+    "q": "Ile prób podniesienia ciężarka dopuszcza kontrola oporu spustu pistoletu ISSF?",
+    "answers": [
+      "Do trzech prób.",
+      "Do dwóch prób.",
+      "Do czterech prób."
+    ],
+    "correct": 0,
+    "why": "Kontrola odbywa się według procedury określonej w przepisach.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R010",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "9.4.2.1 lit. a",
+    "q": "Które typy strzelb są wyłączone z dopuszczenia w konkurencjach ISSF?",
+    "answers": [
+      "Samopowtarzalne i z przeładowaniem pump action.",
+      "Powtarzalne pump action i dwulufowe z pionowym układem luf.",
+      "Samopowtarzalne i dwulufowe z poziomym układem luf."
+    ],
+    "correct": 0,
+    "why": "To wymaganie konkurencji ISSF, nie ogólny zakaz posiadania takich strzelb.",
+    "form": "Rozróżnienie",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R011",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "9.4.2.2",
+    "q": "Czy ISSF dopuszcza w strzelbach mechanizmy spustowe typu release?",
+    "answers": [
+      "Nie; mechanizm release jest niedopuszczalny.",
+      "Tak; jeżeli opór mechanizmu wynosi co najmniej 1000 g.",
+      "Tak; jeżeli ten sam mechanizm działa na obie lufy."
+    ],
+    "correct": 0,
+    "why": "Zakaz dotyczy tego rodzaju mechanizmów w konkurencjach ISSF.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R012",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "9.4.2.4",
+    "q": "Czy w czasie rundy ISSF wolno wymienić prawidłowo działającą strzelbę?",
+    "answers": [
+      "Nie; sprawnej strzelby nie wymienia się podczas rundy.",
+      "Tak; między stanowiskami, po zawiadomieniu sędziego.",
+      "Tak; po serii na stanowisku, przed następnym stanowiskiem."
+    ],
+    "correct": 0,
+    "why": "Zakaz obejmuje również części prawidłowo działającej broni, w tym wymienne czoki.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R013",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "patent",
+      "patent-index"
+    ],
+    "ref": "§ 19 ust. 1",
+    "q": "Z ilu pytań składa się część teoretyczna egzaminu patentowego?",
+    "answers": [
+      "Z 10 pytań.",
+      "Z 12 pytań.",
+      "Z 15 pytań."
+    ],
+    "correct": 0,
+    "why": "Każdy z pięciu działów reprezentują dwa pytania.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R014",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "patent",
+      "patent-index"
+    ],
+    "ref": "§ 19 ust. 7",
+    "q": "Ile czasu przewiduje regulamin na teorię egzaminu patentowego?",
+    "answers": [
+      "20 minut.",
+      "15 minut.",
+      "30 minut."
+    ],
+    "correct": 0,
+    "why": "Symulacja w aplikacji stosuje ten sam limit.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R015",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "patent",
+      "patent-index"
+    ],
+    "ref": "§ 19 ust. 5–6",
+    "q": "Wynik to 9/10, lecz błąd był w pytaniu o ustawę. Jaki jest wynik części teoretycznej?",
+    "answers": [
+      "Niezaliczenie z powodu błędu w części wymagającej bezbłędnych odpowiedzi.",
+      "Zaliczenie po osiągnięciu wymaganego minimum dziewięciu odpowiedzi.",
+      "Zaliczenie warunkowe po ustnym poprawieniu jednej błędnej odpowiedzi."
+    ],
+    "correct": 0,
+    "why": "Pierwsze cztery pytania o ustawę i bezpieczeństwo wymagają bezbłędnych odpowiedzi.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "R016",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "patent",
+      "patent-index"
+    ],
+    "ref": "§ 19 ust. 5–6",
+    "q": "Wynik to 9/10; wszystkie pytania o ustawę i bezpieczeństwo są poprawne. Jaki jest wynik teorii?",
+    "answers": [
+      "Zaliczenie; dopuszczalny jest jeden błąd poza prawem i bezpieczeństwem.",
+      "Niezaliczenie; wymagane są prawidłowe odpowiedzi na wszystkie dziesięć pytań.",
+      "Zaliczenie warunkowe; wymagane jest ustne poprawienie jednej błędnej odpowiedzi."
+    ],
+    "correct": 0,
+    "why": "Jeden błąd jest dopuszczalny w pozostałych sześciu pytaniach.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T001",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical"
+    ],
+    "ref": "rozdz. II, pkt 4",
+    "q": "Który zestaw opisuje główne elementy typowego naboju scalonego z pociskiem?",
+    "answers": [
+      "Pocisk, łuska, spłonka, ładunek prochowy.",
+      "Pocisk, łuska, kowadełko, ładunek prochowy.",
+      "Pocisk, łuska, spłonka, kryza."
+    ],
+    "correct": 0,
+    "why": "Nabój jest całością; pocisk to tylko jeden z jego elementów.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T002",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical"
+    ],
+    "ref": "rozdz. II, pkt 4",
+    "q": "Czy pocisk i nabój to ta sama część amunicji?",
+    "answers": [
+      "Pocisk jest częścią naboju.",
+      "Nabój jest częścią pocisku.",
+      "Pocisk to nabój po usunięciu wyłącznie spłonki."
+    ],
+    "correct": 0,
+    "why": "Rozróżnienie jest istotne przy opisie amunicji i budowy broni.",
+    "form": "Rozróżnienie",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T003",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical"
+    ],
+    "ref": "rozdz. III, pkt 4",
+    "q": "Który element pistoletu P-64 zamyka przewód lufy podczas strzału?",
+    "answers": [
+      "Zamek.",
+      "Wyciąg.",
+      "Wyrzutnik."
+    ],
+    "correct": 0,
+    "why": "To jedna z funkcji zamka opisana w podręczniku CSP.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T004",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical"
+    ],
+    "ref": "rozdz. III, pkt 8",
+    "q": "Jaką funkcję ochronną pełni kabłąk?",
+    "answers": [
+      "Osłania język spustowy przed przypadkowym naciśnięciem.",
+      "Blokuje język spustowy do chwili prawidłowego ujęcia chwytu.",
+      "Blokuje iglicę do chwili pełnego zamknięcia zamka."
+    ],
+    "correct": 0,
+    "why": "Osłona mechaniczna nie zastępuje zasad bezpiecznego posługiwania się bronią.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T005",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical"
+    ],
+    "ref": "rozdz. II, pkt 3",
+    "q": "Czym różni się amunicja szkolna od pełnosprawnej amunicji?",
+    "answers": [
+      "Nie ma czynnej spłonki ani ładunku prochowego.",
+      "Ma czynną spłonkę, ale nie ma ładunku prochowego.",
+      "Ma czynną spłonkę i ładunek prochowy, ale nie ma pocisku."
+    ],
+    "correct": 0,
+    "why": "Jej przeznaczenie jest szkoleniowe; rozpoznanie wymaga właściwego oznaczenia.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T006",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical"
+    ],
+    "ref": "rozdz. II, pkt 3",
+    "q": "Czy amunicja ślepa jest tym samym co amunicja szkolna pozbawiona elementów ogniowych?",
+    "answers": [
+      "Nie; ślepa zachowuje czynne elementy ogniowe, ale nie ma typowego pocisku.",
+      "Tak; ślepa i szkolna są pozbawione zarówno czynnej spłonki, jak i prochu.",
+      "Tak; ślepa i szkolna mają czynną spłonkę, ale są pozbawione prochu."
+    ],
+    "correct": 0,
+    "why": "Brak pocisku nie oznacza braku zagrożenia.",
+    "form": "Rozróżnienie",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T007",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical"
+    ],
+    "ref": "rozdz. III, pkt 1",
+    "q": "Jak sklasyfikowano pistolet P-64 pod względem powtarzalności?",
+    "answers": [
+      "Samopowtarzalna.",
+      "Samoczynna.",
+      "Powtarzalna."
+    ],
+    "correct": 0,
+    "why": "To przykład konstrukcji samopowtarzalnej opisanej w źródle.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T008",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical"
+    ],
+    "ref": "rozdz. III, pkt 1",
+    "q": "Jaki nabój przewidziano dla pistoletu P-64?",
+    "answers": [
+      "9 × 18 mm Makarow.",
+      "9 × 19 mm Parabellum.",
+      "9 × 17 mm Browning."
+    ],
+    "correct": 0,
+    "why": "Podobna średnica nie oznacza zamienności nabojów.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T009",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 5 ust. 2",
+    "q": "Który z wymienionych elementów jest ustawowo istotną częścią broni?",
+    "answers": [
+      "Bęben nabojowy rewolweru.",
+      "Magazynek pistoletowy.",
+      "Mechanizm spustowy."
+    ],
+    "correct": 0,
+    "why": "Bęben nabojowy jest wymieniony w ustawowym katalogu istotnych części.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T010",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 5 ust. 2",
+    "q": "Który zestaw zawiera wyłącznie istotne części broni z katalogu ustawowego?",
+    "answers": [
+      "Szkielet, baskila, zamek.",
+      "Szkielet, baskila, magazynek.",
+      "Szkielet, baskila, mechanizm spustowy."
+    ],
+    "correct": 0,
+    "why": "Ustawowy katalog nie obejmuje każdego elementu wyposażenia.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T011",
+    "revision": 4,
+    "cat": 3,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 7 ust. 1",
+    "q": "Który opis odpowiada definicji broni palnej z art. 7 ust. 1?",
+    "answers": [
+      "Przenośna broń lufowa miotająca pocisk lub substancję materiałem miotającym, także przeznaczona do tego albo możliwa do przystosowania.",
+      "Przenośna broń lufowa miotająca pocisk lub substancję materiałem miotającym, z wyłączeniem broni jedynie przeznaczonej do tego albo możliwej do przystosowania.",
+      "Przenośna broń lufowa miotająca pocisk lub substancję materiałem miotającym albo sprężonym gazem, także przeznaczona do tego albo możliwa do przystosowania."
+    ],
+    "correct": 0,
+    "why": "Definicja obejmuje zdolność, przeznaczenie i możliwość przystosowania. Nie ogranicza się do broni aktualnie sprawnej ani do samoczynnej.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      6,
+      27
+    ]
+  },
+  {
+    "id": "T012",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 8",
+    "q": "Jakie źródło energii działania wymienia definicja broni pneumatycznej?",
+    "answers": [
+      "Energia sprężonego gazu.",
+      "Energia spalania prochu.",
+      "Bezpośrednia siła sprężyny."
+    ],
+    "correct": 0,
+    "why": "Oprócz mechanizmu ustawa określa próg energii ponad 17 J.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T013",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "issf",
+      "issf-index"
+    ],
+    "ref": "9.4.2.1 lit. a",
+    "q": "Jaką budowę przewodu lufy mają strzelby dopuszczone w konkurencjach ISSF?",
+    "answers": [
+      "Gładki przewód lufy.",
+      "Gwintowany przewód lufy.",
+      "Przewód lufy typu paradox."
+    ],
+    "correct": 0,
+    "why": "Przepis określa strzelby gładkolufowe; inne wymagania również muszą być spełnione.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T014",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 10 ust. 4 pkt 4 lit. a",
+    "q": "Jaki rodzaj broni bocznego zapłonu obejmuje ustawowy zakres pozwolenia sportowego?",
+    "answers": [
+      "Gwintowana, do 6 mm włącznie.",
+      "Gwintowana, do 5,6 mm włącznie.",
+      "Gwintowana, poniżej 6 mm bez tej wartości."
+    ],
+    "correct": 0,
+    "why": "To zakres ustawy; regulamin danej konkurencji może stawiać dodatkowe wymagania.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T015",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 10 ust. 4 pkt 4 lit. b",
+    "q": "Jaki maksymalny kaliber broni centralnego zapłonu z lufą gwintowaną przewiduje ustawowy zakres pozwolenia sportowego?",
+    "answers": [
+      "12,0 mm.",
+      "12,7 mm.",
+      "11,43 mm."
+    ],
+    "correct": 0,
+    "why": "Nie należy mylić tej granicy z oznaczeniem kalibru strzelby 12 gauge.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "T016",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "law"
+    ],
+    "ref": "art. 5 ust. 3",
+    "q": "Który element ustawa zalicza do istotnych części amunicji?",
+    "answers": [
+      "Spłonkę inicjującą spalanie materiału miotającego.",
+      "Opróżnioną łuskę bez spłonki i prochu.",
+      "Zwykły pocisk ołowiany bez szczególnego wypełnienia."
+    ],
+    "correct": 0,
+    "why": "Ustawa zawiera odrębny katalog istotnych części amunicji.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K001",
+    "revision": 3,
+    "cat": 4,
+    "sources": [
+      "criminal",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 263 § 2",
+    "q": "Jaką karę przewiduje art. 263 § 2 KK za posiadanie broni palnej lub amunicji bez wymaganego zezwolenia?",
+    "answers": [
+      "Pozbawienie wolności od 6 miesięcy do 8 lat.",
+      "Pozbawienie wolności od 3 miesięcy do 5 lat.",
+      "Pozbawienie wolności od roku do 10 lat."
+    ],
+    "correct": 0,
+    "why": "Pytanie dotyczy posiadania bez wymaganego zezwolenia, nie ustawowych wyjątków.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      142
+    ]
+  },
+  {
+    "id": "K002",
+    "revision": 3,
+    "cat": 4,
+    "sources": [
+      "criminal",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 263 § 1",
+    "q": "Jaką karę przewiduje KK za wyrabianie lub handel bronią palną albo amunicją bez wymaganego zezwolenia?",
+    "answers": [
+      "Pozbawienie wolności od roku do 10 lat.",
+      "Pozbawienie wolności od 6 miesięcy do 8 lat.",
+      "Pozbawienie wolności od 2 do 12 lat."
+    ],
+    "correct": 0,
+    "why": "To inny typ czynu niż samo nielegalne posiadanie.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      141
+    ]
+  },
+  {
+    "id": "K003",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 263 § 3",
+    "q": "Posiadacz zezwolenia przekazuje broń osobie nieuprawnionej. Który przepis opisuje taki czyn?",
+    "answers": [
+      "Art. 263 § 3 KK.",
+      "Art. 263 § 2 KK.",
+      "Art. 263 § 4 KK."
+    ],
+    "correct": 0,
+    "why": "Udostępnianie albo przekazanie osobie nieuprawnionej jest odrębnie penalizowane.",
+    "form": "Sytuacja",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K004",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 263 § 3",
+    "q": "Jakie sankcje przewiduje art. 263 § 3 KK?",
+    "answers": [
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat.",
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do roku.",
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do 3 lat."
+    ],
+    "correct": 0,
+    "why": "Przepis podaje alternatywne rodzaje kar.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K005",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 263 § 4",
+    "q": "Który przepis określa nieumyślne spowodowanie utraty legalnie posiadanej broni palnej lub amunicji?",
+    "answers": [
+      "Art. 263 § 4 Kodeksu karnego.",
+      "Art. 263 § 3 Kodeksu karnego.",
+      "Art. 50 ustawy o broni i amunicji."
+    ],
+    "correct": 0,
+    "why": "Legalność posiadania nie wyłącza odpowiedzialności za nieumyślne spowodowanie utraty.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K006",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 263 § 4",
+    "q": "Jaki najwyższy wymiar pozbawienia wolności przewiduje art. 263 § 4 KK?",
+    "answers": [
+      "Do roku.",
+      "Do 2 lat.",
+      "Do 3 lat."
+    ],
+    "correct": 0,
+    "why": "Przepis przewiduje także grzywnę albo ograniczenie wolności.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K007",
+    "revision": 3,
+    "cat": 4,
+    "sources": [
+      "criminal",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 25 § 1",
+    "q": "Jakiego zamachu dotyczy obrona konieczna w podstawowej definicji KK?",
+    "answers": [
+      "Bezpośredniego, bezprawnego, na dowolne dobro chronione prawem.",
+      "Bezpośredniego, także prawnego, na dobro chronione prawem.",
+      "Bezprawnego, także przyszłego, na dobro chronione prawem."
+    ],
+    "correct": 0,
+    "why": "Bezpośredniość i bezprawność są elementami definicji.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      135
+    ]
+  },
+  {
+    "id": "K008",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 25 § 1",
+    "q": "Czy obrona konieczna może dotyczyć dobra innej osoby?",
+    "answers": [
+      "Tak; może dotyczyć każdego dobra chronionego prawem, także cudzej osoby.",
+      "Tak; lecz tylko życia i zdrowia cudzej osoby, bez ochrony jej mienia.",
+      "Tak; lecz tylko dóbr osoby najbliższej, z wyłączeniem osób obcych."
+    ],
+    "correct": 0,
+    "why": "Definicja nie ogranicza się do dóbr osoby odpierającej zamach.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K009",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 25 § 2",
+    "q": "Co KK wskazuje jako przykład przekroczenia granic obrony koniecznej?",
+    "answers": [
+      "Sposób obrony niewspółmierny do niebezpieczeństwa zamachu.",
+      "Sposób obrony powodujący jakikolwiek uszczerbek u napastnika.",
+      "Sposób obrony przy użyciu narzędzia innego niż użyte przez napastnika."
+    ],
+    "correct": 0,
+    "why": "Ocena zależy od konkretnych okoliczności; pytanie dotyczy treści przepisu.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K010",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 25 § 3",
+    "q": "Co KK stanowi o przekroczeniu granic obrony koniecznej pod wpływem strachu usprawiedliwionego okolicznościami zamachu?",
+    "answers": [
+      "Nie podlega karze z mocy przepisu.",
+      "Sąd musi nadzwyczajnie złagodzić karę.",
+      "Sąd może odstąpić od wymierzenia kary."
+    ],
+    "correct": 0,
+    "why": "Warunkiem jest związek strachu lub wzburzenia z okolicznościami zamachu.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K011",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 26 § 1",
+    "q": "Jaki warunek dotyczy możliwości uniknięcia niebezpieczeństwa w stanie wyższej konieczności?",
+    "answers": [
+      "Niebezpieczeństwa nie można uniknąć w inny sposób.",
+      "Wybrany sposób jest szybszy od innych dostępnych sposobów.",
+      "Wybrany sposób wymaga mniejszego wysiłku niż inne dostępne sposoby."
+    ],
+    "correct": 0,
+    "why": "To warunek odrębny od porównania wartości dóbr.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "K012",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal"
+    ],
+    "ref": "art. 26 § 1",
+    "q": "Jaką relację dóbr opisuje art. 26 § 1 KK?",
+    "answers": [
+      "Poświęcone dobro ma wartość niższą od ratowanego.",
+      "Poświęcone dobro ma wartość równą ratowanemu.",
+      "Poświęcone dobro ma wartość wyższą od ratowanego."
+    ],
+    "correct": 0,
+    "why": "Pytanie dotyczy § 1; § 2 reguluje osobny wariant.",
+    "form": "Wiedza",
+    "verifiedAt": "2026-10-18"
+  },
+  {
+    "id": "P021",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 4 ust. 3",
+    "q": "Co ustawa nazywa amunicją?",
+    "answers": [
+      "Naboje przeznaczone do strzelania z broni palnej.",
+      "Naboje i wszystkie oddzielne składniki naboju.",
+      "Naboje do broni palnej i śrut do pneumatycznej."
+    ],
+    "correct": 0,
+    "why": "Definicja obejmuje naboje do broni palnej; istotne części amunicji są osobno zrównane z amunicją w art. 5.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      1
+    ]
+  },
+  {
+    "id": "P022",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10 ust. 6 pkt 1",
+    "q": "Która amunicja należy do szczególnie niebezpiecznej?",
+    "answers": [
+      "Z pociskiem wypełnionym materiałem wybuchowym.",
+      "Z pociskiem pełnopłaszczowym z rdzeniem ołowianym.",
+      "Z pociskiem ołowianym typu wadcutter do strzelań tarczowych."
+    ],
+    "correct": 0,
+    "why": "Zakaz obejmuje także m.in. amunicję z pociskami zapalającymi i innymi substancjami zagrażającymi życiu lub zdrowiu.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      2
+    ]
+  },
+  {
+    "id": "B020",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. II pkt 1, z nowelizacją 2002 poz. 238",
+    "q": "Jak przenosi się broń na strzelnicy poza stanowiskiem według wzorcowego regulaminu?",
+    "answers": [
+      "Rozładowana, komora otwarta, bez pasów i pokrowców; pistolet lub rewolwer może być w kaburze.",
+      "Rozładowana, komora zamknięta, bez pasów i pokrowców; pistolet lub rewolwer może być w kaburze.",
+      "Rozładowana, komora otwarta, z dołączonym magazynkiem z amunicją; pistolet lub rewolwer może być w kaburze."
+    ],
+    "correct": 0,
+    "why": "Podczas zawodów stosuje się także właściwy regulamin zawodów. Nie przenoś tej zasady wprost na transport publiczny ani poza strzelnicę.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      59
+    ]
+  },
+  {
+    "id": "P023",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10 ust. 5 pkt 1",
+    "q": "Która broń jest przykładem broni szczególnie niebezpiecznej w ustawie?",
+    "answers": [
+      "Samoczynna broń palna zdolna razić cele na odległość.",
+      "Samopowtarzalna broń palna zdolna razić cele na odległość.",
+      "Powtarzalna broń palna centralnego zapłonu z magazynkiem wymiennym."
+    ],
+    "correct": 0,
+    "why": "Samoczynna nie oznacza samopowtarzalna. Katalog obejmuje również inne ustawowo wskazane cechy broni.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      8
+    ]
+  },
+  {
+    "id": "P024",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 9 ust. 1 i art. 11",
+    "q": "Jaka jest podstawowa podstawa posiadania broni palnej przez osobę fizyczną?",
+    "answers": [
+      "Pozwolenie na broń, z wyjątkami wskazanymi w ustawie.",
+      "Pozwolenie albo patent sportowy, zależnie od przeznaczenia broni.",
+      "Pozwolenie albo karta rejestracyjna, według wyboru posiadacza."
+    ],
+    "correct": 0,
+    "why": "Art. 11 przewiduje wyjątki, dlatego twierdzenie, że absolutnie każda broń palna zawsze wymaga pozwolenia, byłoby zbyt szerokie.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      11
+    ]
+  },
+  {
+    "id": "P025",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 9 ust. 4",
+    "q": "Jaki dokument stanowi podstawę posiadania broni pneumatycznej w rozumieniu ustawy?",
+    "answers": [
+      "Karta rejestracyjna broni pneumatycznej.",
+      "Legitymacja posiadacza broni pneumatycznej.",
+      "Świadectwo broni pneumatycznej."
+    ],
+    "correct": 0,
+    "why": "Ustawowa broń pneumatyczna ma energię pocisku przekraczającą 17 J. Karty nie należy mylić z pozwoleniem na broń palną.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      12
+    ]
+  },
+  {
+    "id": "P026",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 21 ust. 1",
+    "q": "Czy osoby fizyczne mogą zbywać między sobą broń i amunicję do niej?",
+    "answers": [
+      "Tak, jeśli mają pozwolenia na ten sam rodzaj broni.",
+      "Tak, jeśli mają pozwolenia wydane do tego samego celu.",
+      "Tak, jeśli co najmniej nabywca ma pozwolenie na ten rodzaj broni."
+    ],
+    "correct": 0,
+    "why": "Uprawnienia muszą odpowiadać transakcji; nabycie broni następuje w granicach pozwolenia i na właściwe zaświadczenie.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      13
+    ]
+  },
+  {
+    "id": "P027",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 6",
+    "q": "Jak ustawa traktuje przeróbki zmieniające rodzaj, kaliber lub przeznaczenie broni?",
+    "answers": [
+      "Są zabronione; uważa się je za wyrób broni.",
+      "Są dozwolone po zawiadomieniu Policji o przeróbce.",
+      "Są dozwolone, jeśli pozostają w celu pozwolenia."
+    ],
+    "correct": 0,
+    "why": "Nie chodzi o zwykłe czyszczenie; pytanie dotyczy wskazanych ustawowo przeróbek.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      14
+    ]
+  },
+  {
+    "id": "P028",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 15 ust. 5",
+    "q": "Kiedy Policja może zażądać niezwłocznych badań od posiadacza pozwolenia?",
+    "answers": [
+      "Po ujawnieniu uzasadnionych okoliczności wskazujących na przesłanki zdrowotne z art. 15 ust. 1 pkt 2–4.",
+      "Dopiero po upływie pięciu lat od wydania pozwolenia, także przy ujawnieniu takich okoliczności.",
+      "Dopiero po potwierdzeniu takich okoliczności prawomocnym orzeczeniem sądu."
+    ],
+    "correct": 0,
+    "why": "Chodzi o zaburzenia psychiczne, istotne zaburzenia funkcjonowania psychologicznego lub uzależnienie.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      16
+    ]
+  },
+  {
+    "id": "P029",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10 ust. 7",
+    "q": "Czy Policja może ograniczyć albo wyłączyć noszenie broni?",
+    "answers": [
+      "Tak; ograniczenie lub wyłączenie potwierdza się w legitymacji posiadacza broni.",
+      "Tak; ograniczenie lub wyłączenie potwierdza się wyłącznie w Europejskiej karcie broni.",
+      "Nie; Policja może cofnąć pozwolenie, ale nie ograniczyć samego noszenia broni."
+    ],
+    "correct": 0,
+    "why": "Uprawnienie do posiadania i możliwość noszenia nie są tożsame.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      17
+    ]
+  },
+  {
+    "id": "P030",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "depot",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 8 ust. 1–2",
+    "q": "Czy składający broń do depozytu ma dostęp do niej w celu pokazania potencjalnemu nabywcy?",
+    "answers": [
+      "Tak; po uzgodnieniu terminu z jednostką deponującą.",
+      "Tak; po uzyskaniu odrębnego czasowego pozwolenia na tę broń.",
+      "Nie; okazanie jest możliwe dopiero po przeniesieniu własności broni."
+    ],
+    "correct": 0,
+    "why": "Przepis dopuszcza też dostęp w celu oceny stanu broni; udostępnienie wpisuje się do książki ewidencji. Nowelizacja 2026 poz. 1317 dotyczy § 10, a nie tej zasady.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      18
+    ]
+  },
+  {
+    "id": "P031",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 15 ust. 4–5",
+    "q": "Czy samo pozwolenie sportowe oznacza obowiązek badań co 5 lat?",
+    "answers": [
+      "Nie; cykliczne badania dotyczą pozwoleń do ochrony osobistej oraz ochrony osób i mienia.",
+      "Tak; cykliczne badania dotyczą pozwoleń sportowych oraz do ochrony osobistej.",
+      "Tak; cykliczne badania dotyczą pozwoleń sportowych oraz kolekcjonerskich."
+    ],
+    "correct": 0,
+    "why": "Posiadacz pozwolenia sportowego może jednak zostać zobowiązany do badań na podstawie art. 15 ust. 5.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      19
+    ]
+  },
+  {
+    "id": "P032",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 15 ust. 3 i 6",
+    "q": "Jakie orzeczenia zasadniczo przedstawia wnioskodawca o pozwolenie?",
+    "answers": [
+      "Lekarskie i psychologiczne, wydane najwyżej 3 miesiące przed wnioskiem.",
+      "Lekarskie i psychologiczne, wydane najwyżej 6 miesięcy przed wnioskiem.",
+      "Lekarskie i psychologiczne, wydane najwyżej 12 miesięcy przed wnioskiem."
+    ],
+    "correct": 0,
+    "why": "Ustawa przewiduje szczególne zwolnienie w ust. 6. Zaświadczenie do egzaminu na patent jest innym dokumentem niż te orzeczenia.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      20
+    ]
+  },
+  {
+    "id": "P033",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 18 ust. 5 pkt 2",
+    "q": "Posiadacz uchyla się od wymaganych badań i przedstawienia orzeczeń. Co może zrobić Policja?",
+    "answers": [
+      "Może cofnąć pozwolenie na broń.",
+      "Musi cofnąć pozwolenie na broń.",
+      "Musi zawiesić pozwolenie na broń."
+    ],
+    "correct": 0,
+    "why": "Jest to fakultatywna podstawa cofnięcia. W pytaniach rozróżniaj „może cofnąć” i „cofa”.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      21
+    ]
+  },
+  {
+    "id": "P034",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10 ust. 6 pkt 4",
+    "q": "Który przypadek stanowi wyjątek od zakazu amunicji wykonanej niefabrycznie?",
+    "answers": [
+      "Własny użytek posiadacza pozwolenia sportowego, łowieckiego lub kolekcjonerskiego.",
+      "Własny użytek posiadacza pozwolenia sportowego, łowieckiego lub pamiątkowego.",
+      "Własny użytek posiadacza patentu i licencji sportowej, także bez pozwolenia."
+    ],
+    "correct": 0,
+    "why": "Pytanie dotyczy zakresu wyjątku prawnego, a nie instrukcji wytwarzania amunicji.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      22
+    ]
+  },
+  {
+    "id": "P035",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 28",
+    "q": "Czy samo pozwolenie kolekcjonerskie uprawnia do przyjęcia w użyczenie broni odpowiadającej celom sportowym?",
+    "answers": [
+      "Nie; samo kolekcjonerskie nie wystarcza, przepis wskazuje cel sportowy lub łowiecki.",
+      "Tak; wystarcza kolekcjonerskie, jeśli obejmuje ten sam rodzaj broni.",
+      "Tak; wystarcza kolekcjonerskie, jeśli użyczenie jest bezpłatne i pisemne."
+    ],
+    "correct": 0,
+    "why": "Inne są zasady korzystania z broni na strzelnicy, a inne użyczenia poza tym wyjątkiem.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      23
+    ]
+  },
+  {
+    "id": "P036",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 5 ust. 3",
+    "q": "Który zestaw odpowiada ustawowym istotnym częściom amunicji?",
+    "answers": [
+      "Spłonki, materiał miotający i pociski zawierające materiały wybuchowe, chemiczne lub zapalające.",
+      "Spłonki, materiał miotający i wszystkie pociski, niezależnie od ich wypełnienia.",
+      "Spłonki, materiał miotający i wszystkie łuski, niezależnie od ich stanu."
+    ],
+    "correct": 0,
+    "why": "Nie każdy element naboju jest ustawową istotną częścią amunicji. Gotowe lub obrobione istotne części traktuje się jak amunicję.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      24
+    ]
+  },
+  {
+    "id": "P037",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 5 ust. 2",
+    "q": "Który zestaw wymienia istotne części broni palnej i pneumatycznej?",
+    "answers": [
+      "Szkielet, baskila, lufa z komorą nabojową, zamek, komora zamkowa, bęben nabojowy.",
+      "Szkielet, baskila, lufa z komorą nabojową, zamek, komora zamkowa, magazynek.",
+      "Szkielet, baskila, lufa z komorą nabojową, zamek, komora zamkowa, mechanizm spustowy."
+    ],
+    "correct": 0,
+    "why": "To katalog ustawowy. Funkcjonalnie ważny element nie musi być „istotną częścią” w rozumieniu prawa.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      25
+    ]
+  },
+  {
+    "id": "P038",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 22 ust. 3",
+    "q": "Po utracie uprawnienia broń nie została zbyta w ciągu 30 dni. Co należy zrobić?",
+    "answers": [
+      "Złożyć broń i amunicję do depozytu właściwego organu Policji.",
+      "Złożyć broń i amunicję do przechowania w macierzystym klubie strzeleckim.",
+      "Wystąpić do Policji o przedłużenie terminu sprzedaży zamiast złożenia do depozytu."
+    ],
+    "correct": 0,
+    "why": "Termin ten nie znosi obowiązku niezwłocznego zbycia po utracie uprawnienia.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      26
+    ]
+  },
+  {
+    "id": "P039",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 15 ust. 2",
+    "q": "Od jakiego wieku możliwy jest ustawowy wyjątek dla pozwolenia sportowego lub łowieckiego na wniosek uprawnionej organizacji?",
+    "answers": [
+      "Od ukończonych 18 lat.",
+      "Od ukończonych 17 lat.",
+      "Od ukończonych 20 lat."
+    ],
+    "correct": 0,
+    "why": "Wnioskodawcami mogą być szkoła, organizacja sportowa, PZŁ lub stowarzyszenie obronne. To wyjątek od zasady 21 lat.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      28
+    ]
+  },
+  {
+    "id": "P040",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 16 ust. 2",
+    "q": "Który przypadek zwalnia z policyjnego egzaminu w zakresie broni sportowej?",
+    "answers": [
+      "Członek PZSS z ważną licencją, który zdał właściwy odrębny egzamin.",
+      "Członek klubu PZSS z patentem, także bez ważnej licencji związku.",
+      "Członek klubu PZSS po szkoleniu, także bez zdanego odrębnego egzaminu."
+    ],
+    "correct": 0,
+    "why": "Zwolnienie ma określony zakres i przesłanki; nie jest ogólnym zwolnieniem dla każdej broni.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      30
+    ]
+  },
+  {
+    "id": "P041",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10b ust. 2",
+    "q": "Gdzie znajduje się ustawowa podstawa opłaty za egzamin potwierdzający kwalifikacje strzeleckie?",
+    "answers": [
+      "Ustawa o broni i amunicji.",
+      "Ustawa o sporcie.",
+      "Rozporządzenie o egzaminie przed komisją Policji."
+    ],
+    "correct": 0,
+    "why": "Ustawa określa opłatę 400 zł. Regulamin PZSS określa organizację egzaminu.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      31
+    ]
+  },
+  {
+    "id": "P042",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 18 ust. 1",
+    "q": "Które zachowanie stanowi obligatoryjną podstawę cofnięcia pozwolenia?",
+    "answers": [
+      "Noszenie broni po użyciu alkoholu.",
+      "Naruszenie terminu rejestracji broni.",
+      "Naruszenie terminu zawiadomienia o zmianie stałego pobytu."
+    ],
+    "correct": 0,
+    "why": "Art. 18 ust. 1 obejmuje też m.in. naruszenie ograniczenia noszenia, określone przesłanki osobowe i niewiadomienie o utracie. Dotyczy również przemieszczania rozładowanej broni po alkoholu.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      32,
+      49,
+      51
+    ]
+  },
+  {
+    "id": "P043",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 22 ust. 1–1a",
+    "q": "Co musi zrobić osoba, która utraciła uprawnienie do posiadania broni?",
+    "answers": [
+      "Niezwłocznie zbyć broń i amunicję; pozbawienie broni cech użytkowych też wykonuje obowiązek.",
+      "Zbyć broń i amunicję w ciągu 90 dni; w tym czasie przechowywać je na dotychczasowych zasadach.",
+      "Niezwłocznie złożyć broń i amunicję do depozytu; sprzedaż możliwa jest dopiero po 30 dniach."
+    ],
+    "correct": 0,
+    "why": "Jeśli broń nie zostanie zbyta w terminie 30 dni, należy złożyć ją z amunicją do depozytu Policji.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      34
+    ]
+  },
+  {
+    "id": "P044",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 15 ust. 1 pkt 4",
+    "q": "Której osobie nie wydaje się pozwolenia na broń?",
+    "answers": [
+      "Uzależnionej od alkoholu lub substancji psychoaktywnych.",
+      "Prawomocnie skazanej wyłącznie za wykroczenie drogowe.",
+      "Prawomocnie skazanej wyłącznie za nieumyślne przestępstwo przeciwko mieniu."
+    ],
+    "correct": 0,
+    "why": "Katalog obejmuje również inne przesłanki zdrowotne, wiek, stały pobyt i ustawowo określone skazania.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      38
+    ]
+  },
+  {
+    "id": "P045",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10 ust. 4 pkt 4",
+    "q": "Które rodzaje broni obejmuje ustawowy katalog dla celu sportowego?",
+    "answers": [
+      "Gwintowana bocznego zapłonu do 6 mm, gwintowana centralnego do 12 mm, gładkolufowa, wyłącznie czarnoprochowa.",
+      "Gwintowana bocznego zapłonu do 6 mm, gwintowana centralnego do 12,7 mm, gładkolufowa, wyłącznie czarnoprochowa.",
+      "Gwintowana bocznego zapłonu do 5,6 mm, gwintowana centralnego do 12 mm, gładkolufowa, wyłącznie czarnoprochowa."
+    ],
+    "correct": 0,
+    "why": "Konkretne pozwolenie określa rodzaj i liczbę egzemplarzy; katalog nie znosi zakazów dotyczących broni szczególnie niebezpiecznej.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      41
+    ]
+  },
+  {
+    "id": "P046",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 36 ust. 1–2",
+    "q": "Komu można zlecić przesłanie broni lub amunicji?",
+    "answers": [
+      "Operatorowi pocztowemu świadczącemu usługę przesyłania broni lub amunicji.",
+      "Operatorowi pocztowemu świadczącemu dowolną usługę przesyłek rejestrowanych.",
+      "Przewoźnikowi posiadającemu koncesję na krajowy transport drogowy rzeczy."
+    ],
+    "correct": 0,
+    "why": "Przesyłanie przez inne podmioty jest zakazane. Zwykła dostępność usługi paczkowej nie przesądza o dopuszczeniu broni.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      42
+    ]
+  },
+  {
+    "id": "P047",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 37 ust. 1–2",
+    "q": "Czego wymaga przywóz broni przez obywatela polskiego z państwa spoza UE?",
+    "answers": [
+      "Zaświadczenie właściwego konsula RP oraz pisemne zgłoszenie organowi celnemu przy przekraczaniu granicy.",
+      "Zaświadczenie właściwego konsula RP oraz ustne zgłoszenie organowi celnemu przy przekraczaniu granicy.",
+      "Zaświadczenie właściwego konsula RP oraz pisemne zgłoszenie Policji w ciągu 14 dni po przekroczeniu granicy."
+    ],
+    "correct": 0,
+    "why": "To pytanie dotyczy szczególnego trybu przywozu spoza UE. Dokumenty nie zastępują pozostałych wymogów posiadania broni.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      43
+    ]
+  },
+  {
+    "id": "P048",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 18 ust. 5 pkt 5",
+    "q": "Co przewiduje ustawa przy naruszeniu wymogu uzyskania zgody na wywóz broni za granicę?",
+    "answers": [
+      "Policja może cofnąć pozwolenie.",
+      "Policja musi cofnąć pozwolenie.",
+      "Policja musi zawiesić pozwolenie."
+    ],
+    "correct": 0,
+    "why": "To fakultatywna podstawa cofnięcia. Odrębnie mogą mieć zastosowanie przepisy karne.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      45
+    ]
+  },
+  {
+    "id": "P049",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 18 ust. 5 pkt 7",
+    "q": "Co przewiduje ustawa przy naruszeniu zasad użyczania broni osobie nieuprawnionej?",
+    "answers": [
+      "Policja może cofnąć pozwolenie.",
+      "Policja musi cofnąć pozwolenie.",
+      "Policja musi zawiesić pozwolenie."
+    ],
+    "correct": 0,
+    "why": "To fakultatywna podstawa cofnięcia. Odrębnie mogą mieć zastosowanie przepisy karne.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      46
+    ]
+  },
+  {
+    "id": "P050",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 18 ust. 5 pkt 6",
+    "q": "Co przewiduje ustawa przy naruszeniu zasady używania broni w celach sportowych wyłącznie na strzelnicy?",
+    "answers": [
+      "Policja może cofnąć pozwolenie.",
+      "Policja musi cofnąć pozwolenie.",
+      "Policja musi zawiesić pozwolenie."
+    ],
+    "correct": 0,
+    "why": "To fakultatywna podstawa cofnięcia. Odrębnie mogą mieć zastosowanie przepisy karne.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      47
+    ]
+  },
+  {
+    "id": "P051",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 18 ust. 5 pkt 1",
+    "q": "Co przewiduje ustawa przy naruszeniu obowiązku rejestracji broni?",
+    "answers": [
+      "Policja może cofnąć pozwolenie.",
+      "Policja musi cofnąć pozwolenie.",
+      "Policja musi zawiesić pozwolenie."
+    ],
+    "correct": 0,
+    "why": "To fakultatywna podstawa cofnięcia. Odrębnie mogą mieć zastosowanie przepisy karne.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      50
+    ]
+  },
+  {
+    "id": "P052",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 38",
+    "q": "Jaka jest zasada wywozu broni i amunicji za granicę przez obywatela polskiego?",
+    "answers": [
+      "Zgoda Policji; wyjątek dotyczy EKB uprawniającej do wwozu broni do państw UE.",
+      "Zgoda Policji; wyjątek dotyczy EKB uprawniającej do wwozu broni do każdego państwa docelowego.",
+      "Zgoda Policji; wyjątek dotyczy polskiej legitymacji posiadacza broni przy wywozie do UE."
+    ],
+    "correct": 0,
+    "why": "EKB musi uprawniać do wwozu na terytorium państw UE; trzeba uwzględnić również wymagania państwa docelowego.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      52
+    ]
+  },
+  {
+    "id": "P053",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 13 ust. 4",
+    "q": "Gdzie potwierdza się rejestrację broni wymagającej pozwolenia?",
+    "answers": [
+      "W legitymacji posiadacza broni lub świadectwie broni.",
+      "W karcie rejestracyjnej broni lub Europejskiej karcie broni.",
+      "W promesie do nabycia broni lub decyzji o pozwoleniu."
+    ],
+    "correct": 0,
+    "why": "Karta rejestracyjna broni dotyczy innych ustawowo określonych przypadków.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      54
+    ]
+  },
+  {
+    "id": "P054",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 12 ust. 1–2",
+    "q": "Czy zaświadczenie na zakup jednej sztuki pozwala po zrealizowaniu zakupu nabyć na nie drugą sztukę?",
+    "answers": [
+      "Nie; wskazana liczba egzemplarzy wyczerpuje uprawnienie z tego zaświadczenia.",
+      "Tak; do końca miesiąca, jeśli pozwolenie obejmuje co najmniej dwie sztuki.",
+      "Tak; do upływu trzech miesięcy, jeśli pozwolenie obejmuje co najmniej dwie sztuki."
+    ],
+    "correct": 0,
+    "why": "Wykorzystane uprawnienie nie odnawia się. Wykaz PZSS nie podaje wariantów do pytania o utratę ważności, dlatego ćwiczymy konkretną, jednoznaczną sytuację.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      55
+    ]
+  },
+  {
+    "id": "P055",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 12 ust. 2; brak ustawowego terminu ważności",
+    "q": "Czy niewykorzystana promesa na zakup broni co do zasady wygasa po 3 miesiącach?",
+    "answers": [
+      "Nie; nie ma terminu 3 miesięcy, obowiązują granice aktualnego uprawnienia.",
+      "Tak; po 3 miesiącach od wydania, niezależnie od utrzymania pozwolenia.",
+      "Tak; po 3 miesiącach od uprawomocnienia pozwolenia, niezależnie od wydania promesy."
+    ],
+    "correct": 0,
+    "why": "Nie myl terminu rejestracji zakupionej broni z ważnością zaświadczenia. Cofnięte pozwolenie nie daje podstawy do dalszych zakupów.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      56
+    ]
+  },
+  {
+    "id": "P056",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 21 ust. 2",
+    "q": "Jak zbywający zawiadamia Policję o zbyciu broni i amunicji do niej?",
+    "answers": [
+      "Niezwłocznie, pisemnie, właściwy organ Policji.",
+      "Niezwłocznie, ustnie, właściwy organ Policji.",
+      "Pisemnie, w ciągu 14 dni, właściwy organ Policji."
+    ],
+    "correct": 0,
+    "why": "Termin 5 dni dotyczy rejestracji przez nabywcę; ustawa dla zbywającego używa słowa „niezwłocznie”.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      57
+    ]
+  },
+  {
+    "id": "P057",
+    "revision": 2,
+    "cat": 0,
+    "sources": [
+      "law",
+      "storage",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 10 ust. 7–9; rozporządzenie § 8",
+    "q": "Jak nosi się broń sportową zgodnie z obecnymi zasadami?",
+    "answers": [
+      "W kaburze lub futerale; jeśli ilość i wielkość pozwala — możliwie niewidocznie, w kaburze przy ciele.",
+      "Wyłącznie w futerale zamykanym na zamek, także gdy wymiary pozwalają na kaburę.",
+      "W kaburze lub futerale; sposób możliwie niewidoczny dotyczy wyłącznie broni do ochrony osobistej."
+    ],
+    "correct": 0,
+    "why": "Noszenie ustawowo dotyczy broni załadowanej. Sprawdź ograniczenia w legitymacji. Transport publiczny i przemieszczanie na strzelnicy mają odrębne zasady.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      4
+    ]
+  },
+  {
+    "id": "B021",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. I pkt 2",
+    "q": "Czy osoba towarzysząca strzelcowi może wejść na stanowisko i dotykać jego broni?",
+    "answers": [
+      "Nie; samo towarzyszenie nie uprawnia do wejścia na stanowisko ani dotykania broni.",
+      "Tak; towarzyszący może wejść i dotykać broni po okazaniu własnego patentu.",
+      "Tak; towarzyszący może wejść i dotykać broni po sprawdzeniu jej rozładowania."
+    ],
+    "correct": 0,
+    "why": "Zakaz dotyczy osób towarzyszących; uprawniona obsługa strzelania pełni inne role.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      58
+    ]
+  },
+  {
+    "id": "B022",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "transport",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "§ 2 ust. 1",
+    "q": "Jak przewozi się broń sportową w publicznym środku transportu pasażerskiego?",
+    "answers": [
+      "Komora i magazynki puste, broń rozładowana.",
+      "Komora pusta, pełny magazynek odłączony.",
+      "Komora pusta, pełny magazynek dołączony."
+    ],
+    "correct": 0,
+    "why": "Wyjątek w ust. 2 dotyczy wskazanej broni ochronnej, a nie sportowej.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      60,
+      61
+    ]
+  },
+  {
+    "id": "B023",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "law",
+      "transport",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 35; rozporządzenie transportowe § 3–6",
+    "q": "Jakie warunki obowiązują przy przewozie broni sportowej transportem publicznym?",
+    "answers": [
+      "Zabezpieczenie przed zagrożeniem życia, zdrowia lub mienia oraz dostępem nieupoważnionych.",
+      "Zabezpieczenie przed zagrożeniem życia, zdrowia lub mienia; dostęp osoby pełnoletniej nie wymaga upoważnienia.",
+      "Zabezpieczenie przed dostępem nieupoważnionych; samo wyjęcie magazynka spełnia pozostałe wymagania przewozu."
+    ],
+    "correct": 0,
+    "why": "Broń sportowa musi być rozładowana, amunicja bezpiecznie opakowana; przewoźnik może ustalić dodatkowe zasady. W samolocie obowiązuje szczególny tryb bagażu rejestrowanego.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      62
+    ]
+  },
+  {
+    "id": "B024",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. III pkt 7",
+    "q": "Na jakich warunkach zwierzę może wyjątkowo przebywać na strzelnicy?",
+    "answers": [
+      "Na uwięzi i pod ścisłym nadzorem opiekuna.",
+      "Na uwięzi, bez wymogu stałego nadzoru opiekuna.",
+      "Pod ścisłym nadzorem opiekuna, bez wymogu uwięzi."
+    ],
+    "correct": 0,
+    "why": "Wzorcowy regulamin dopuszcza pobyt zwierzęcia tylko w wyjątkowych przypadkach.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      67
+    ]
+  },
+  {
+    "id": "B025",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "safety",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "zasady PZSS, komendy i zakończenie strzelania",
+    "q": "Jak należy doprowadzić broń do bezpiecznego stanu po komendzie „ROZŁADUJ”?",
+    "answers": [
+      "Rozładować, sprawdzić, przedstawić do kontroli i pozostawić otwartą ze wskaźnikiem.",
+      "Rozładować, sprawdzić, przedstawić do kontroli i pozostawić zamkniętą bez wskaźnika.",
+      "Rozładować, sprawdzić, wprowadzić wskaźnik i odejść bez kontroli prowadzącego."
+    ],
+    "correct": 0,
+    "why": "Zachowuj kierunek bezpieczny. Dokładne czynności zależą od konstrukcji broni i poleceń prowadzącego.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      68,
+      77
+    ]
+  },
+  {
+    "id": "B026",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "6.2.2.6",
+    "q": "Kiedy przepisy ISSF pozwalają odłożyć broń?",
+    "answers": [
+      "Po usunięciu naboju lub nabojów i magazynka, z otwartym mechanizmem.",
+      "Po usunięciu naboju lub nabojów i magazynka, z zamkniętym mechanizmem.",
+      "Po usunięciu naboju z komory, z dołączonym pustym magazynkiem i otwartym mechanizmem."
+    ],
+    "correct": 0,
+    "why": "W broni pneumatycznej musi być otwarty otwór ładowania lub mechanizm napinania; obowiązują też wskaźniki bezpieczeństwa.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      70
+    ]
+  },
+  {
+    "id": "B027",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. II pkt 3",
+    "q": "Do czego wolno kierować strzały na strzelnicy?",
+    "answers": [
+      "Do celów strzeleckich; bez celowania do ludzi, zwierząt i ptactwa.",
+      "Do celów i innych przedmiotów w kulochwycie bez zgody prowadzącego.",
+      "Do celów i zwierząt znajdujących się na osi strzelań."
+    ],
+    "correct": 0,
+    "why": "Strzelnica nie znosi zasad bezpieczeństwa ani dopuszczalnych kierunków ognia.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      80
+    ]
+  },
+  {
+    "id": "B028",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. I pkt 1",
+    "q": "Co należy do obowiązków prowadzącego strzelanie?",
+    "answers": [
+      "Bezpieczeństwo uczestników i towarzyszących, wyznaczenie stanowisk i bezpiecznego pobytu, rejestr.",
+      "Bezpieczeństwo uczestników, wyznaczenie stanowisk i rejestr; bezpieczeństwo towarzyszących należy tylko do nich.",
+      "Bezpieczeństwo uczestników i towarzyszących, wyznaczenie stanowisk; rejestr prowadzi się wyłącznie na zawodach."
+    ],
+    "correct": 0,
+    "why": "Prowadzący organizuje bezpieczny przebieg strzelania, nie tylko wynik sportowy.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      81
+    ]
+  },
+  {
+    "id": "B029",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. I pkt 1 lit. c",
+    "q": "Jak potwierdza się zapoznanie z regulaminem i zasadami bezpieczeństwa?",
+    "answers": [
+      "Własnoręczny podpis oświadczenia w rejestrze pobytu.",
+      "Ustne oświadczenie składane do rejestru pobytu.",
+      "Podpis prowadzącego zamiast podpisu korzystającego."
+    ],
+    "correct": 0,
+    "why": "Oświadczenie stanowi element rejestru osób korzystających ze strzelnicy.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      82
+    ]
+  },
+  {
+    "id": "B030",
+    "revision": 2,
+    "cat": 1,
+    "sources": [
+      "range",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "załącznik, rozdz. I pkt 1 lit. c, nowelizacja 2002 poz. 238",
+    "q": "Które dane wpisuje się do rejestru pobytu na strzelnicy według wzorcowego regulaminu?",
+    "answers": [
+      "Imię i nazwisko, numer i organ pozwolenia albo adres przy jego braku, podpisane oświadczenie.",
+      "Imię i nazwisko, numer patentu zamiast numeru pozwolenia, adres, podpisane oświadczenie.",
+      "Imię i nazwisko, numer i organ pozwolenia, liczba strzałów; bez oświadczenia o znajomości zasad."
+    ],
+    "correct": 0,
+    "why": "Nie ucz się nieaktualnej listy pól sprzed zmiany z 2002 r. Strzelnica może zbierać dodatkowe dane na odrębnej podstawie.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      84
+    ]
+  },
+  {
+    "id": "T017",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "rimfire",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "SAAMI — Rimfire cartridge",
+    "q": "Gdzie znajduje się masa inicjująca w typowym naboju bocznego zapłonu?",
+    "answers": [
+      "W przestrzeni obrzeża denka łuski.",
+      "W osobnej spłonce w osi denka łuski.",
+      "W oddzielnej spłonce umieszczonej w bocznej ściance łuski."
+    ],
+    "correct": 0,
+    "why": "Nazwa opisuje konstrukcję zapłonu naboju; przykładem sportowym jest .22 LR.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      85
+    ]
+  },
+  {
+    "id": "T018",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "centerfire",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "SAAMI — Centerfire cartridge",
+    "q": "Czym wyróżnia się nabój centralnego zapłonu?",
+    "answers": [
+      "Spłonka w denku łuski, w osi naboju.",
+      "Masa inicjująca w obrzeżu denka łuski.",
+      "Spłonka w bocznej ściance łuski, poza osią naboju."
+    ],
+    "correct": 0,
+    "why": "Odróżniaj rodzaj zapłonu od kalibru i przeznaczenia sportowego.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      86
+    ]
+  },
+  {
+    "id": "R017",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.4.4",
+    "q": "Który nabój jest właściwy dla konkurencji pistoletu na 50 m według ISSF?",
+    "answers": [
+      "5,6 mm (.22) Long Rifle, bocznego zapłonu.",
+      "5,6 mm (.22) WMR, bocznego zapłonu.",
+      "5,6 mm (.22) Short, bocznego zapłonu."
+    ],
+    "correct": 0,
+    "why": "W konkurencjach pistoletowych ISSF pociski muszą być z ołowiu lub podobnego miękkiego materiału.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      87
+    ]
+  },
+  {
+    "id": "R018",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.4.4",
+    "q": "Jakie pociski przewidują przepisy dla pistoletu pneumatycznego 10 m?",
+    "answers": [
+      "4,5 mm (.177), z ołowiu lub podobnego miękkiego materiału.",
+      "4,5 mm (.177), w metalowym płaszczu z miękkim ołowianym rdzeniem.",
+      "5,5 mm (.22), z ołowiu lub podobnego miękkiego materiału."
+    ],
+    "correct": 0,
+    "why": "Pistolet pneumatyczny nie używa nabojów .22 LR.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      88
+    ]
+  },
+  {
+    "id": "T019",
+    "revision": 1,
+    "cat": 3,
+    "sources": [
+      "gauge",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "SAAMI — Gauge",
+    "q": "Który z kalibrów wagomiarowych oznacza największą średnicę przewodu lufy: 12, 16 czy 20?",
+    "answers": [
+      "12.",
+      "16.",
+      "20."
+    ],
+    "correct": 0,
+    "why": "W tym systemie mniejsza liczba oznacza większą średnicę: potrzeba mniejszej liczby większych kul o łącznej masie jednego funta.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-17",
+    "officialNumbers": [
+      89
+    ]
+  },
+  {
+    "id": "R019",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "7.4.4; 8.4.4",
+    "q": "Które rodzaje broni pneumatycznej 4,5 mm należą do konkurencji ISSF na 10 m?",
+    "answers": [
+      "Karabin pneumatyczny i pistolet pneumatyczny.",
+      "Karabin pneumatyczny i pistolet standardowy 25 m.",
+      "Pistolet pneumatyczny i karabin małokalibrowy 50 m."
+    ],
+    "correct": 0,
+    "why": "Nie należy utożsamiać sportowego określenia broni pneumatycznej z ustawowym progiem ponad 17 J.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      90
+    ]
+  },
+  {
+    "id": "R020",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "7.4.5; 8.4.4",
+    "q": "Które konkurencje ISSF wykorzystują małokalibrową broń bocznego zapłonu 5,6 mm?",
+    "answers": [
+      "Karabin 50 m oraz pistolet 25 m i 50 m.",
+      "Karabin 10 m oraz pistolet 25 m i 50 m.",
+      "Karabin 50 m oraz pistolet 10 m i 25 m."
+    ],
+    "correct": 0,
+    "why": "Dla tych konkurencji stosuje się amunicję .22 LR zgodnie z właściwymi przepisami sprzętowymi.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      91
+    ]
+  },
+  {
+    "id": "R021",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "9.4.2.1",
+    "q": "Jaki największy kaliber wagomiarowy strzelby pod względem średnicy dopuszcza ISSF?",
+    "answers": [
+      "12; dopuszczalne są mniejsze średnice.",
+      "10; dopuszczalne są mniejsze średnice.",
+      "16; dopuszczalne są mniejsze średnice."
+    ],
+    "correct": 0,
+    "why": "Przepis wyłącza strzelby samopowtarzalne i typu pump action. W wagomiarze większa liczba oznacza mniejszy przewód lufy.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      92
+    ]
+  },
+  {
+    "id": "R022",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.4.4",
+    "q": "Jaki zakres kalibru dotyczy pistoletu centralnego zapłonu 25 m ISSF?",
+    "answers": [
+      "7,62–9,65 mm (.30–.38), bez Magnum i amunicji dużej mocy.",
+      "7,62–11,43 mm (.30–.45), bez Magnum i amunicji dużej mocy.",
+      "5,6–9,65 mm (.22–.38), bez Magnum i amunicji dużej mocy."
+    ],
+    "correct": 0,
+    "why": "To limit konkurencji sportowej, inny niż ustawowy katalog broni do pozwolenia sportowego.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      93
+    ]
+  },
+  {
+    "id": "R023",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.4.4",
+    "q": "Jakie pociski są niedopuszczalne w konkurencjach pistoletowych ISSF?",
+    "answers": [
+      "Pociski z metalowym płaszczem.",
+      "Pociski ołowiane wadcutter.",
+      "Pociski ołowiane round nose."
+    ],
+    "correct": 0,
+    "why": "Pociski muszą być wykonane z ołowiu lub podobnego miękkiego materiału; przepisy konkurencji ograniczają także kaliber i nabój.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      94
+    ]
+  },
+  {
+    "id": "T020",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "technical",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "CSP, pytania kontrolne: kaliber",
+    "q": "Co oznacza kaliber lufy gwintowanej w podstawowej definicji technicznej?",
+    "answers": [
+      "Średnica wewnętrzna między przeciwległymi polami.",
+      "Średnica wewnętrzna między przeciwległymi bruzdami.",
+      "Średnica zewnętrzna lufy na wysokości komory nabojowej."
+    ],
+    "correct": 0,
+    "why": "Kaliber wyraża się m.in. w milimetrach i calach. Oznaczenia handlowe nabojów nie zawsze są prostym pomiarem tej średnicy.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      95
+    ]
+  },
+  {
+    "id": "T021",
+    "revision": 2,
+    "cat": 3,
+    "sources": [
+      "gauge",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "SAAMI — Gauge",
+    "q": "Co historycznie opisuje kaliber wagomiarowy strzelby?",
+    "answers": [
+      "Liczba kul ołowianych o średnicy lufy, dających łącznie jeden funt.",
+      "Masa w gramach jednej kuli ołowianej o średnicy lufy.",
+      "Liczba kul ołowianych o średnicy lufy, dających łącznie jeden kilogram."
+    ],
+    "correct": 0,
+    "why": "To odwrotna zależność: mniej większych kul daje tę samą masę. Wyjątkiem od takiego nazewnictwa jest m.in. .410.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      96
+    ]
+  },
+  {
+    "id": "R024",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12, wiersz 50m Pistol",
+    "q": "Jaki limit długości lufy obowiązuje dla pistoletu dowolnego 50 m ISSF?",
+    "answers": [
+      "Nie ma odrębnego limitu długości lufy.",
+      "Maksymalnie 153 mm długości lufy.",
+      "Maksymalnie 220 mm długości lufy."
+    ],
+    "correct": 0,
+    "why": "Nie przenoś limitu 153 mm z pistoletu 25 m na pistolet dowolny. Pozostałe reguły konkurencji nadal obowiązują.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      97
+    ]
+  },
+  {
+    "id": "R025",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12, wiersz 25m Rimfire Pistol",
+    "q": "Ile wynosi maksymalna długość lufy pistoletu sportowego 25 m ISSF?",
+    "answers": [
+      "153 mm.",
+      "150 mm.",
+      "155 mm."
+    ],
+    "correct": 0,
+    "why": "153 mm to lufa; 220 mm to maksymalna linia celowania, a 300 mm to jeden z wymiarów pudełka.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      98
+    ]
+  },
+  {
+    "id": "R026",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "7.10, tabela specyfikacji karabinów",
+    "q": "Jaka jest maksymalna masa karabinu pneumatycznego 10 m ISSF z przyrządami celowniczymi?",
+    "answers": [
+      "5,5 kg.",
+      "5,0 kg.",
+      "6,0 kg."
+    ],
+    "correct": 0,
+    "why": "Limit dotyczy karabinu pneumatycznego. Nie myl go z innymi rodzajami karabinów.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      99
+    ]
+  },
+  {
+    "id": "R027",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12, wiersz 50m Pistol",
+    "q": "Jaki limit masy wskazuje tabela ISSF dla pistoletu dowolnego 50 m?",
+    "answers": [
+      "Nie ma odrębnego limitu masy.",
+      "Maksymalnie 1400 g.",
+      "Maksymalnie 1500 g."
+    ],
+    "correct": 0,
+    "why": "1400 g dotyczy pistoletów 25 m, a 1500 g — pneumatycznego 10 m.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      100
+    ]
+  },
+  {
+    "id": "R028",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12",
+    "q": "Jaka jest maksymalna masa pistoletu sportowego 25 m ISSF?",
+    "answers": [
+      "1400 g.",
+      "1500 g.",
+      "1300 g."
+    ],
+    "correct": 0,
+    "why": "Masę mierzy się z akcesoriami, w tym obciążnikami i rozładowanym magazynkiem.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      101
+    ]
+  },
+  {
+    "id": "R029",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12, wiersz 50m Pistol",
+    "q": "Jaki minimalny opór spustu wyznacza tabela dla pistoletu dowolnego 50 m?",
+    "answers": [
+      "Nie ma określonego minimum.",
+      "Co najmniej 500 g.",
+      "Co najmniej 1000 g."
+    ],
+    "correct": 0,
+    "why": "Brak limitu w tej tabeli nie znosi wymogów bezpiecznego działania broni.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      102
+    ]
+  },
+  {
+    "id": "R030",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12",
+    "q": "Jaki minimalny opór spustu obowiązuje dla pistoletu pneumatycznego 10 m ISSF?",
+    "answers": [
+      "500 g.",
+      "750 g.",
+      "1000 g."
+    ],
+    "correct": 0,
+    "why": "500 g to opór spustu; 1500 g to limit masy tego pistoletu.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      103
+    ]
+  },
+  {
+    "id": "R031",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12",
+    "q": "Jaki minimalny opór spustu obowiązuje dla pistoletu sportowego 25 m ISSF?",
+    "answers": [
+      "1000 g.",
+      "500 g.",
+      "1500 g."
+    ],
+    "correct": 0,
+    "why": "1000 g dotyczy oporu spustu, a 1400 g masy pistoletu.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      104
+    ]
+  },
+  {
+    "id": "R032",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12",
+    "q": "Jakie są nominalne wewnętrzne wymiary pudełka dla pistoletu sportowego 25 m ISSF?",
+    "answers": [
+      "300 × 150 × 50 mm.",
+      "300 × 150 × 60 mm.",
+      "300 × 200 × 50 mm."
+    ],
+    "correct": 0,
+    "why": "Broń mierzy się z wyposażeniem; tabela podaje osobno tolerancję wykonania pudełka.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      105
+    ]
+  },
+  {
+    "id": "R033",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.12",
+    "q": "Jakie są nominalne wewnętrzne wymiary pudełka dla pistoletu pneumatycznego 10 m ISSF?",
+    "answers": [
+      "420 × 200 × 50 mm.",
+      "420 × 150 × 50 mm.",
+      "400 × 200 × 50 mm."
+    ],
+    "correct": 0,
+    "why": "Nie myl większego pudełka pneumatycznego z pudełkiem pistoletu 25 m. Tolerancja wykonania pudełka jest odrębną zasadą.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      106
+    ]
+  },
+  {
+    "id": "R034",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.4.3.2",
+    "q": "Czy w konkurencji pistolet sportowy 25 m można użyć rewolweru?",
+    "answers": [
+      "Tak; rewolwer 5,6 mm (.22) spełniający wymagania konkurencji.",
+      "Nie; dopuszczalny jest pistolet 5,6 mm (.22), ale nie rewolwer.",
+      "Tak; rewolwer centralnego zapłonu do 9,65 mm spełniający limity masy."
+    ],
+    "correct": 0,
+    "why": "Przepis dopuszcza pistolet lub rewolwer bocznego zapłonu 5,6 mm (.22), z zachowaniem pozostałych wymogów.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      107
+    ]
+  },
+  {
+    "id": "R035",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "6.2.3.3; 8.12",
+    "q": "Ile nabojów naraz wolno załadować do pistoletu dowolnego 50 m?",
+    "answers": [
+      "Jeden nabój.",
+      "Dwa naboje.",
+      "Pięć nabojów."
+    ],
+    "correct": 0,
+    "why": "Reguła jednego naboju jest niezależna od możliwości technicznych konstrukcji.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      108
+    ]
+  },
+  {
+    "id": "R036",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.5.1–8.5.2",
+    "q": "Jakie obuwie dopuszczają przepisy pistoletowe ISSF?",
+    "answers": [
+      "Niskie, z odkrytą kostką i elastyczną podeszwą.",
+      "Niskie, z odkrytą kostką i sztywną podeszwą.",
+      "Wysokie, podpierające kostkę, z elastyczną podeszwą."
+    ],
+    "correct": 0,
+    "why": "Ubiór i wyposażenie nie mogą zapewniać niedozwolonego wsparcia. Przepisy obejmują też pomiar elastyczności podeszwy.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      109
+    ]
+  },
+  {
+    "id": "R037",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "7.9, tabela konkurencji",
+    "q": "Na jaki dystans strzela się karabin 60 strzałów leżąc, kalibru 5,6 mm?",
+    "answers": [
+      "50 m.",
+      "25 m.",
+      "100 m."
+    ],
+    "correct": 0,
+    "why": "W tym pytaniu chodzi o małokalibrową konkurencję 50 m, a nie konkurencje karabinu 300 m.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      110
+    ]
+  },
+  {
+    "id": "R038",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "rozdz. 9",
+    "q": "Która para to konkurencje strzelbowe ISSF?",
+    "answers": [
+      "Konkurencje Trap oraz Skeet.",
+      "Trap oraz ruchoma tarcza 50 m.",
+      "Skeet oraz ruchoma tarcza 10 m."
+    ],
+    "correct": 0,
+    "why": "W strzelbowych konkurencjach ISSF strzela się do rzutków.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      111
+    ]
+  },
+  {
+    "id": "R039",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.7.6.1; 8.11",
+    "q": "Ile nabojów ładuje się do zwykłej serii pięciostrzałowej konkurencji pistoletowej 25 m?",
+    "answers": [
+      "Pięć nabojów.",
+      "Sześć nabojów.",
+      "Dziesięć nabojów."
+    ],
+    "correct": 0,
+    "why": "Pytanie dotyczy wskazanej serii; nie jest zgodą na ładowanie przed właściwą komendą.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      112
+    ]
+  },
+  {
+    "id": "R040",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.11",
+    "q": "Jakie dystanse obejmują tarczowe konkurencje pistoletowe ISSF?",
+    "answers": [
+      "10, 25 i 50 m.",
+      "10, 25 i 100 m.",
+      "10, 50 i 300 m."
+    ],
+    "correct": 0,
+    "why": "10 m to broń pneumatyczna, 25 m obejmuje kilka konkurencji, a 50 m to pistolet dowolny.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      113
+    ]
+  },
+  {
+    "id": "R041",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "7.9",
+    "q": "Jakie dystanse obejmują tarczowe konkurencje karabinowe ISSF?",
+    "answers": [
+      "10, 50 i 300 m.",
+      "10, 25 i 50 m.",
+      "10, 50 i 100 m."
+    ],
+    "correct": 0,
+    "why": "Program obejmuje różne rodzaje karabinów i postawy; nie wszystkie konkurencje są olimpijskie.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      114
+    ]
+  },
+  {
+    "id": "R042",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "6.3; 7.9; 8.11",
+    "q": "Który zestaw odległości dotyczy tarczowych konkurencji karabinowych i pistoletowych ISSF?",
+    "answers": [
+      "10, 25, 50 i 300 m.",
+      "10, 25, 50 i 100 m.",
+      "10, 25, 100 i 300 m."
+    ],
+    "correct": 0,
+    "why": "Zakres pytania wyraźnie pomija strzelania do rzutków i ruchomej tarczy.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      115
+    ]
+  },
+  {
+    "id": "R043",
+    "revision": 1,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.7.6.4; 8.11",
+    "q": "Na jaką odległość rozgrywa się pistolet sportowy 30 + 30?",
+    "answers": [
+      "25 m.",
+      "10 m.",
+      "50 m."
+    ],
+    "correct": 0,
+    "why": "Konkurencja obejmuje część dokładną i szybką, po 30 strzałów.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-17",
+    "officialNumbers": [
+      116
+    ]
+  },
+  {
+    "id": "R044",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.7.6.3; 8.11",
+    "q": "Jaki dystans i układ celów ma pistolet szybkostrzelny?",
+    "answers": [
+      "Pięć tarcz na 25 m.",
+      "Jedna tarcza na 25 m.",
+      "Pięć tarcz na 50 m."
+    ],
+    "correct": 0,
+    "why": "W serii oddaje się po jednym strzale do każdej z pięciu tarcz.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      117
+    ]
+  },
+  {
+    "id": "R045",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "7.9; 8.11",
+    "q": "Która para konkurencji jest rozgrywana na 10 m?",
+    "answers": [
+      "Karabin pneumatyczny i pistolet pneumatyczny.",
+      "Karabin pneumatyczny i pistolet standardowy.",
+      "Pistolet pneumatyczny i pistolet dowolny."
+    ],
+    "correct": 0,
+    "why": "Zwróć uwagę na połączenie rodzaju broni i dystansu.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      118
+    ]
+  },
+  {
+    "id": "R046",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.11",
+    "q": "Która konkurencja jest rozgrywana na 25 m?",
+    "answers": [
+      "Pistolet sportowy.",
+      "Pistolet dowolny.",
+      "Karabin sportowy trzy postawy."
+    ],
+    "correct": 0,
+    "why": "Na 25 m rozgrywa się także m.in. pistolet szybkostrzelny, standardowy i centralnego zapłonu.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      119
+    ]
+  },
+  {
+    "id": "R047",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "7.9; 8.11",
+    "q": "Która para jest rozgrywana na 50 m?",
+    "answers": [
+      "Karabin małokalibrowy i pistolet dowolny.",
+      "Karabin małokalibrowy i pistolet sportowy.",
+      "Pistolet dowolny i pistolet centralnego zapłonu."
+    ],
+    "correct": 0,
+    "why": "Na 50 m używa się tu broni bocznego zapłonu 5,6 mm.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      120
+    ]
+  },
+  {
+    "id": "R048",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "7.6.1",
+    "q": "Jakie postawy występują w karabinowych konkurencjach trzech postaw?",
+    "answers": [
+      "Klęcząca, leżąca i stojąca.",
+      "Siedząca, leżąca i stojąca.",
+      "Klęcząca, siedząca i stojąca."
+    ],
+    "correct": 0,
+    "why": "Każda postawa ma szczegółowo opisane warunki podparcia i ułożenia.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      121
+    ]
+  },
+  {
+    "id": "R049",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "patent",
+      "official-list",
+      "official-index",
+      "patent-index"
+    ],
+    "ref": "§ 2 regulaminu patentowego",
+    "q": "Jakie trzy dyscypliny obejmuje zakres patentu strzeleckiego PZSS?",
+    "answers": [
+      "Pistolet, karabin i strzelba gładkolufowa.",
+      "Pistolet, karabin i ruchoma tarcza.",
+      "Pistolet, karabin i strzelba wyłącznie pneumatyczna."
+    ],
+    "correct": 0,
+    "why": "Patent może być nadany w zakresie zaliczonych dyscyplin. To pytanie dotyczy zakresu patentu, nie kompletnej klasyfikacji wszystkich odmian strzelectwa.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      122
+    ]
+  },
+  {
+    "id": "R050",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "8.7.1",
+    "q": "Jaką postawę i sposób trzymania broni przewidują tarczowe konkurencje pistoletowe ISSF?",
+    "answers": [
+      "Stojąc bez podparcia, jedną ręką, bez podparcia nadgarstka.",
+      "Stojąc bez podparcia, oburącz, bez podparcia nadgarstków.",
+      "Stojąc z podparciem tułowia, jedną ręką, bez podparcia nadgarstka."
+    ],
+    "correct": 0,
+    "why": "Nie przenoś technik innych dyscyplin do konkurencji pistoletowych ISSF.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      123
+    ]
+  },
+  {
+    "id": "R051",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "9.9; 6.4.19",
+    "q": "Co wyróżnia Skeet?",
+    "answers": [
+      "Rzutki z wysokiej i niskiej budki, przelatujące w poprzek pola stanowisk.",
+      "Rzutki z maszyn w rowie przed stanowiskami, oddalające się od strzelców.",
+      "Rzutki z jednej budki za stanowiskami, lecące nad strzelcami w jednym kierunku."
+    ],
+    "correct": 0,
+    "why": "Skeet obejmuje strzały z różnych stanowisk oraz rzutki pojedyncze i dublety.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      124
+    ]
+  },
+  {
+    "id": "R052",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "9.8; 6.4.18",
+    "q": "Co wyróżnia Trap?",
+    "answers": [
+      "Rzutki z maszyn w rowie przed stanowiskami, oddalające się od strzelców.",
+      "Rzutki z wysokiej i niskiej budki, przelatujące w poprzek pola stanowisk.",
+      "Rzutki z jednej budki za stanowiskami, lecące nad strzelcami w jednym kierunku."
+    ],
+    "correct": 0,
+    "why": "Kierunki i kąty lotu regulują tabele ustawień maszyn.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      125
+    ]
+  },
+  {
+    "id": "R053",
+    "revision": 2,
+    "cat": 2,
+    "sources": [
+      "issf",
+      "official-list",
+      "official-index",
+      "issf-index"
+    ],
+    "ref": "6.12.6",
+    "q": "Jakie podstawowe kary i kolory kartek przewidują ogólne przepisy ISSF?",
+    "answers": [
+      "Ostrzeżenie — żółta, odjęcie punktów — zielona, dyskwalifikacja — czerwona.",
+      "Ostrzeżenie — zielona, odjęcie punktów — żółta, dyskwalifikacja — czerwona.",
+      "Ostrzeżenie — żółta, odjęcie punktów — czerwona, dyskwalifikacja — zielona."
+    ],
+    "correct": 0,
+    "why": "Nie każde naruszenie musi być poprzedzone ostrzeżeniem; poważne naruszenie bezpieczeństwa może prowadzić do dyskwalifikacji.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      126
+    ]
+  },
+  {
+    "id": "K013",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 51 ust. 2 pkt 4",
+    "q": "Jaka sankcja z ustawy o broni i amunicji dotyczy noszenia broni po użyciu alkoholu?",
+    "answers": [
+      "Areszt albo grzywna.",
+      "Grzywna albo ograniczenie wolności.",
+      "Wyłącznie grzywna."
+    ],
+    "correct": 0,
+    "why": "To odpowiedzialność za wykroczenie; odrębnie istnieje obligatoryjna podstawa cofnięcia pozwolenia.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      127
+    ]
+  },
+  {
+    "id": "K014",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 50",
+    "q": "Jaka kara grozi za porzucenie pozostającej w dyspozycji broni palnej lub amunicji?",
+    "answers": [
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat.",
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do roku.",
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do 3 lat."
+    ],
+    "correct": 0,
+    "why": "Nie myl porzucenia z nieumyślnym spowodowaniem utraty, uregulowanym w KK.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      128
+    ]
+  },
+  {
+    "id": "K015",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 51 ust. 2 pkt 1",
+    "q": "Jaka sankcja z ustawy dotyczy niedopełnienia obowiązku rejestracji albo zdania broni do depozytu?",
+    "answers": [
+      "Areszt albo grzywna.",
+      "Grzywna albo ograniczenie wolności.",
+      "Wyłącznie grzywna."
+    ],
+    "correct": 0,
+    "why": "To sankcja za wykroczenie wskazane w tym przepisie. Nie wyłącza innych konsekwencji, jeśli zachodzą odrębne przesłanki.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      129
+    ]
+  },
+  {
+    "id": "K016",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 51 ust. 1",
+    "q": "Jaka sankcja z ustawy dotyczy posiadania broni pneumatycznej bez wymaganej rejestracji?",
+    "answers": [
+      "Areszt albo grzywna.",
+      "Grzywna albo ograniczenie wolności.",
+      "Wyłącznie grzywna."
+    ],
+    "correct": 0,
+    "why": "To sankcja za wykroczenie wskazane w tym przepisie. Nie wyłącza innych konsekwencji, jeśli zachodzą odrębne przesłanki.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      130
+    ]
+  },
+  {
+    "id": "K017",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 51 ust. 2 pkt 2",
+    "q": "Jaka sankcja z ustawy dotyczy niedopełnienia obowiązku zawiadomienia Policji o utracie lub zbyciu broni i amunicji?",
+    "answers": [
+      "Areszt albo grzywna.",
+      "Grzywna albo ograniczenie wolności.",
+      "Wyłącznie grzywna."
+    ],
+    "correct": 0,
+    "why": "To sankcja za wykroczenie wskazane w tym przepisie. Nie wyłącza innych konsekwencji, jeśli zachodzą odrębne przesłanki.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      131
+    ]
+  },
+  {
+    "id": "K018",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 51 ust. 2 pkt 3",
+    "q": "Jaka sankcja z ustawy dotyczy niedopełnienia obowiązku pisemnego powiadomienia o zmianie stałego pobytu?",
+    "answers": [
+      "Areszt albo grzywna.",
+      "Grzywna albo ograniczenie wolności.",
+      "Wyłącznie grzywna."
+    ],
+    "correct": 0,
+    "why": "To sankcja za wykroczenie wskazane w tym przepisie. Nie wyłącza innych konsekwencji, jeśli zachodzą odrębne przesłanki.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      132
+    ]
+  },
+  {
+    "id": "K019",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 51 ust. 2 pkt 10",
+    "q": "Jaka sankcja z ustawy dotyczy noszenia broni wbrew ograniczeniu lub zakazowi noszenia?",
+    "answers": [
+      "Areszt albo grzywna.",
+      "Grzywna albo ograniczenie wolności.",
+      "Wyłącznie grzywna."
+    ],
+    "correct": 0,
+    "why": "To sankcja za wykroczenie wskazane w tym przepisie. Nie wyłącza innych konsekwencji, jeśli zachodzą odrębne przesłanki.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      35,
+      138
+    ]
+  },
+  {
+    "id": "K020",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 51 ust. 2 pkt 11",
+    "q": "Jaka sankcja z ustawy dotyczy używania broni do celów sportowych lub szkoleniowych poza strzelnicą?",
+    "answers": [
+      "Areszt albo grzywna.",
+      "Grzywna albo ograniczenie wolności.",
+      "Wyłącznie grzywna."
+    ],
+    "correct": 0,
+    "why": "To sankcja za wykroczenie wskazane w tym przepisie. Nie wyłącza innych konsekwencji, jeśli zachodzą odrębne przesłanki.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      139
+    ]
+  },
+  {
+    "id": "K021",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "law",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 51 ust. 2 pkt 5",
+    "q": "Jaka sankcja z ustawy dotyczy przywozu broni spoza UE bez wymaganego zaświadczenia konsula lub pisemnego zgłoszenia?",
+    "answers": [
+      "Areszt albo grzywna.",
+      "Grzywna albo ograniczenie wolności.",
+      "Wyłącznie grzywna."
+    ],
+    "correct": 0,
+    "why": "To sankcja za wykroczenie wskazane w tym przepisie. Nie wyłącza innych konsekwencji, jeśli zachodzą odrębne przesłanki.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      140
+    ]
+  },
+  {
+    "id": "K022",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 263 § 4",
+    "q": "Jakie kary przewiduje KK za nieumyślne spowodowanie utraty legalnie posiadanej broni palnej lub amunicji?",
+    "answers": [
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do roku.",
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat.",
+      "Grzywna, ograniczenie wolności albo pozbawienie wolności do 3 lat."
+    ],
+    "correct": 0,
+    "why": "Przepis przewiduje trzy alternatywne rodzaje kary; nie myl go z porzuceniem ani nielegalnym posiadaniem.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      133
+    ]
+  },
+  {
+    "id": "K023",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 26 § 1",
+    "q": "Która sytuacja odpowiada stanowi wyższej konieczności z art. 26 § 1 KK?",
+    "answers": [
+      "Usunięcie bezpośredniego niebezpieczeństwa, niemożliwego do uniknięcia inaczej, kosztem dobra o niższej wartości.",
+      "Usunięcie bezpośredniego niebezpieczeństwa, możliwego do uniknięcia inaczej, kosztem dobra o niższej wartości.",
+      "Usunięcie bezpośredniego niebezpieczeństwa, niemożliwego do uniknięcia inaczej, kosztem dobra o równej wartości."
+    ],
+    "correct": 0,
+    "why": "Przepis łączy bezpośrednie niebezpieczeństwo, konieczność działania i relację wartości dóbr. § 2 określa odrębny wariant.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      134
+    ]
+  },
+  {
+    "id": "K024",
+    "revision": 2,
+    "cat": 4,
+    "sources": [
+      "criminal",
+      "official-list",
+      "official-index"
+    ],
+    "ref": "art. 25 § 2",
+    "q": "Co sąd może zrobić w razie przekroczenia granic obrony koniecznej według art. 25 § 2 KK?",
+    "answers": [
+      "Może nadzwyczajnie złagodzić karę lub odstąpić od jej wymierzenia.",
+      "Musi nadzwyczajnie złagodzić karę lub odstąpić od jej wymierzenia.",
+      "Może nadzwyczajnie złagodzić karę, lecz nie może odstąpić od jej wymierzenia."
+    ],
+    "correct": 0,
+    "why": "Jest to możliwość sądu. Osobno § 3 przewiduje niepodleganie karze przy usprawiedliwionym strachu lub wzburzeniu.",
+    "form": "Zakres PZSS",
+    "verifiedAt": "2026-10-18",
+    "officialNumbers": [
+      136,
+      137
+    ]
+  }
+]

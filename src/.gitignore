@@ -1,0 +1,8 @@
+node_modules/
+work/
+.secrets/
+*.pem
+*.p12
+*-password.txt
+*.apk.idsig
+.DS_Store
