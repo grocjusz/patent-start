@@ -1,0 +1,38 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import {spawnSync} from 'node:child_process';
+const root=path.resolve(import.meta.dirname,'..'),win=process.platform==='win32';
+const tools=process.env.PATENT_TOOLCHAIN||path.resolve(root,'../../../work/toolchain');
+const secret=process.env.PATENT_SECRET_DIR||path.resolve(root,'../../../work/keys');
+const sdk=process.env.ANDROID_HOME||process.env.ANDROID_SDK_ROOT;
+const jdk=process.env.JAVA_HOME||path.join(tools,'jdk',fs.readdirSync(path.join(tools,'jdk')).find(n=>n.startsWith('jdk-')));
+const bt=sdk?path.join(sdk,'build-tools','35.0.0'):path.join(tools,'build-tools','android-15');
+const android=sdk?path.join(sdk,'platforms','android-35','android.jar'):path.join(tools,'platform','android-35','android.jar');
+const bin=name=>path.join(jdk,'bin',name+(win?'.exe':''));
+const build=path.resolve(root,'../../../work/build');
+fs.mkdirSync(build,{recursive:true});fs.mkdirSync(secret,{recursive:true});
+const run=(cmd,args)=>{let r=spawnSync(cmd,args,{encoding:'utf8',stdio:'pipe',env:{...process.env,JAVA_HOME:jdk}});if(r.stdout)process.stdout.write(r.stdout);if(r.stderr)process.stderr.write(r.stderr);if(r.error)throw r.error;if(r.status!==0)throw Error(path.basename(cmd)+' failed: '+r.status);};
+const walk=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(d=>d.isDirectory()?walk(path.join(dir,d.name)):[path.join(dir,d.name)]);
+if(!fs.existsSync(path.join(root,'app/assets/public-key.der')))run(process.execPath,[path.join(root,'tools/sign-pack.mjs')]);
+const aapt=path.join(bt,win?'aapt2.exe':'aapt2'),res=path.join(build,'res.zip');
+run(aapt,['compile','--dir',path.join(root,'app/res'),'-o',res]);
+const unsigned=path.join(build,'unsigned.apk');
+run(aapt,['link','-o',unsigned,'-I',android,'--manifest',path.join(root,'app/AndroidManifest.xml'),'-R',res,'-A',path.join(root,'app/assets'),'--auto-add-overlay']);
+const classes=path.join(build,'classes'),dex=path.join(build,'dex');fs.mkdirSync(classes,{recursive:true});fs.mkdirSync(dex,{recursive:true});
+run(bin('javac'),['-encoding','UTF-8','-source','8','-target','8','-classpath',android,'-d',classes,...walk(path.join(root,'app/java')).filter(x=>x.endsWith('.java'))]);
+run(bin('java'),['-cp',path.join(bt,'lib/d8.jar'),'com.android.tools.r8.D8','--lib',android,'--min-api','26','--output',dex,...walk(classes).filter(x=>x.endsWith('.class'))]);
+run(bin('jar'),['uf',unsigned,'-C',dex,'classes.dex']);
+const aligned=path.join(build,'aligned.apk');
+run(path.join(bt,win?'zipalign.exe':'zipalign'),['-f','-p','4',unsigned,aligned]);
+const ks=path.join(secret,'android-release.p12'),pw=path.join(secret,'android-password.txt');
+if(!fs.existsSync(ks)){
+ fs.writeFileSync(pw,crypto.randomBytes(32).toString('hex'),{mode:0o600});
+ run(bin('keytool'),['-genkeypair','-keystore',ks,'-storetype','PKCS12','-storepass:file',pw,'-keypass:file',pw,'-alias','patent-start','-keyalg','RSA','-keysize','3072','-validity','10000','-dname','CN=Patent Start, OU=Personal Learning, O=Patent Start, C=PL']);
+}
+const out=path.resolve(root,'../Patent-Start-1.2.1.apk');
+run(bin('java'),['-jar',path.join(bt,'lib/apksigner.jar'),'sign','--ks',ks,'--ks-pass','file:'+pw,'--out',out,aligned]);
+run(bin('java'),['-jar',path.join(bt,'lib/apksigner.jar'),'verify','--verbose','--print-certs',out]);
+run(aapt,['dump','badging',out]);
+fs.writeFileSync(out+'.sha256',crypto.createHash('sha256').update(fs.readFileSync(out)).digest('hex')+'  '+path.basename(out)+'\n');
+console.log('APK:',out);
