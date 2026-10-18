@@ -27,4 +27,3 @@ for (const name of fs.readdirSync(path.join(root, 'public'))) {
   console.log('  ' + name);
 }
 console.log('\nGotowe. Sprawdź APK na telefonie, zatwierdź zmiany i opublikuj (git commit, git push).');
-console.log('Archiwum źródeł: git archive --format=zip -o Patent-Start-source.zip HEAD:src (po zatwierdzeniu zmian).');
