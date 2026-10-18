@@ -1,7 +1,7 @@
 PATENT START — Android 8.0 lub nowszy
 
 Autorska aplikacja treningowa do części teoretycznej patentu strzeleckiego.
-Wydanie 1.2.0: 18.10.2026. 400 pytań, 23 zagadnienia, pięć działów.
+Wydanie 1.2.1: 18.10.2026. 388 pytań, 21 zagadnień, pięć działów.
 Zakres wszystkich 142 pozycji opublikowanego wykazu PZSS ma autorskie
 warianty treningowe, uzasadnienia i źródła. Wykaz nie zawiera wariantów
 odpowiedzi ani klucza. Nie gwarantujemy brzmienia przyszłego egzaminu.
@@ -127,3 +127,36 @@ Nie skopiowano zewnętrznych banków; wykorzystano je do analizy zakresu.
 Nowy APK jest potrzebny do obsługi dodatkowej domeny producenta CZ
 oraz menu zagadnień. Starszy APK może odrzucić pakiet 5 z nowym źródłem.
 Termin pełnego przeglądu pozostaje 16.11.2026; nie przedłużono go.
+
+WYDANIE 1.2.1 / PAKIET 6 — POPRAWKI PO AUDYCIE Z 18.10.2026
+Opis zmian treści do akceptacji: AUDYT-1.2.1.md. Poprawki są zapisane
+w tools/audit-corrections.mjs i nanoszone przez apply-corrections.mjs
+(także na końcu make-bank.mjs), więc odtworzenie bazy ich nie gubi.
+
+Treść: poprawiono klucze P100, P026, B026; podstawy i brzmienie B011,
+B012, B025, B045, R058 według zasad bezpieczeństwa PZSS (zał. nr 7)
+i tekstu jednolitego regulaminu (uchw. nr 47/2025); usunięto powołania
+na nieistniejące przepisy ISSF 7.9 i 7.10 (R026, R037, R041, R042, R045,
+R047). Tymczasowo wycofano 12 pytań opartych na instrukcji CZ 457.
+
+Zgodność: pakiet 6 przechodzi walidację aplikacji 1.1.x (test
+„Pakiet przechodzi walidację aplikacji 1.1.x”). Nowe pole pakietu
+minApp pozwala wymagać nowszej aplikacji: wersja 1.2.1 pokazuje wtedy
+komunikat o aktualizacji, a starsze wersje pole ignorują. Pakiet, który
+dodaje źródło z nowej domeny, musi mieć minApp.
+
+Monitor: źródła sprawdzają konkretne pliki (sha256 lub metadane ELI),
+bez kontroli całej listy linków strony. Lista linków obejmowała menu
+z rankingami, więc ich aktualizacja wstrzymywała egzamin. Nowe dokumenty
+na stronach PZSS wykrywa narzędzie autora: node tools/watch-pages.mjs.
+
+Egzamin: poprawna odpowiedź w próbie egzaminu nie obniża już poziomu
+utrwalenia ani nie przyspiesza powtórki (Engine.recordExam).
+
+WYDAWANIE
+Ustaw PATENT_SECRET_DIR (oraz JAVA_HOME i ANDROID_HOME albo
+PATENT_TOOLCHAIN), a potem: node tools/release.mjs
+Skrypt liczy odciski źródeł oznaczonych PENDING, uruchamia testy,
+podpisuje pakiet, buduje APK i kopiuje strony do katalogu publikacji.
+sign-pack.mjs odmawia podpisania pakietu z odciskiem PENDING
+oraz pakietu bez minApp, którego nie przyjmie aplikacja 1.1.x.

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "patent-docs",
+    "page": "https://www.pzss.org.pl/patenty-licencje/terminy-egzaminow",
+    "include": ["licencyjno-patentowa/", "komentarz-do-regulaminu"],
+    "known": [
+      "regulamin-patentowy-tekst-jednolity-uchw-47.pdf",
+      "zalaczniki_regulamin_patent.pdf",
+      "uchwala-nr-47-zmiana-regulaminu.pdf",
+      "sprostowanie-uchwaly-47.pdf",
+      "komentarz-do-regulaminu-pat.pdf",
+      "pytania-egzaminacyjne-na-patent-strzelcki-1.pdf",
+      "ogolne-zasady-bezpieczenstwa.pdf",
+      "wniosek-o-przepr-egzaminu.pdf"
+    ]
+  },
+  {
+    "id": "patent-page",
+    "page": "https://www.pzss.org.pl/patenty-licencje/patent-strzelecki",
+    "include": ["licencyjno-patentowa/"],
+    "known": null
+  },
+  {
+    "id": "issf-rules",
+    "page": "https://www.pzss.org.pl/sedziowie/przepisy-issf-i-interpretacje",
+    "include": ["issf-2026/", "issf-2027/"],
+    "known": null
+  },
+  {
+    "id": "other-rules",
+    "page": "https://www.pzss.org.pl/komisje/komisja-konkurencji-strzeleckich-nie-objetych-przepisami-issf",
+    "include": ["regulaminy/", "konkurencje_nie_issf/", "komisja-konkurencj-strzeleckich/"],
+    "known": [
+      "zbior-reg.-pzss-vi2025-dla-konkurencji-nieobjetych-przepisami-issf-vi-2025.pdf",
+      "3_regulamin_ligi_sportera__sezon_2025.pdf",
+      "zal.-2-przepisy_piro_2023_02_20.pdf",
+      "zalacznik-3-regulamin-compak-s-pl.pdf",
+      "zalacznik-4-sporting-pl.pdf",
+      "zalacznik-5-uniwersal-trench-tab.pdf",
+      "zalacznik-6-compak-comb-game.pdf",
+      "zalacznik-7-universal-skeet-pl.pdf",
+      "zalacznik-8-trap-1-pl.pdf",
+      "zalacznik-9-prs-poland-series-rimfire-rules-and-standard-operational-procedures-pl-final.pdf",
+      "zalacznik-10-prs-poland-series-rules-and-standard-operational-procedures-pl-final.pdf",
+      "zal-11tarcze-dot.-22longrange.pdf",
+      "ipsc-regulamin-regionu-ipsc.pdf",
+      "odznaki-strzeleckie-w-strzelectwie-czarnoprochowym.pdf"
+    ]
+  }
+]
