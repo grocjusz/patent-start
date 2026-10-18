@@ -79,3 +79,42 @@ Promesa: art. 12 UoBiA; potwierdzenie bezterminowości w oficjalnej informacji:
 https://lodzka.policja.gov.pl/el7/pozwolenia-na-bron/434%2CPozwolenia-na-bron.html
 Limity pistoletów zweryfikowano też wizualnie w tabeli ISSF 8.12 (str. 375).
 Monitor sprawdza teraz również PDF wykazu i stronę z jego odsyłaczem.
+
+WYDANIE 1.1.2 / PAKIET 4 — 18.10.2026
+Przegląd konstrukcji 185 pytań. W 183 zmieniono treść wariantów;
+2 pytania z poprawnymi wariantami liczbowymi zachowano. Rewizję podniesiono
+wyłącznie dla zmienionych pytań. Wyników ze starych, łatwiejszych wersji
+nie uznaje się za opanowanie nowych wariantów.
+
+Wzory konstrukcji przejrzano w serwisach:
+https://egzaminpatentstrzelecki.pl/pytania/54
+https://egzaminpatentstrzelecki.pl/pytania/279
+https://testna.pl/testy-na-patent-strzelecki/
+https://vislipno.pl/VIS-html/egzamin/patent_pytania.pdf
+Starszy PDF zawiera nieaktualne informacje, dlatego posłużył tylko do
+analizy konstrukcji, nie do ustalania bieżących zasad lub klucza.
+Zasady oceny jakości pytań: NBME Item-Writing Guide, reguła 4 — spójne,
+wiarygodne warianty bez podpowiedzi w formie odpowiedzi:
+https://www.nbme.org/sites/default/files/2021-02/NBME_Item%20Writing%20Guide_R_6.pdf
+Nie skopiowano komercyjnej bazy ani kluczy. Opracowanie jest autorskie.
+
+Warianty odnoszą się do tego samego zagadnienia. Pomyłki dotyczą np.
+terminu, właściwego organu, warunku ustawowego, rodzaju pozwolenia,
+parametru sprzętu lub różnicy „może” / „musi”. Zachowano jeden klucz
+w każdym pytaniu; kolejność A/B/C jest losowana w sesji.
+Kontrola długości to pomoc redakcyjna, nie empiryczna kalibracja trudności.
+Rzeczywistą trudność można ocenić dopiero na podstawie rozwiązywania pytań.
+
+MONITOR: porównano stare i nowe strony trzech definicji SAAMI. Zmieniły
+się wersja CSS oraz techniczne tokeny poza główną treścią, nie definicje.
+Nowy monitor porównuje całą zawartość jednoznacznej sekcji main z tytułem
+i treścią hasła. Brak lub powielenie sekcji powoduje błąd kontroli;
+zmiana treści nadal wywołuje alarm. Zachowano URL-e i kontrolę domen.
+Zgodność Java/Node sprawdzono dla 8 przypadków. Ta poprawka wymaga
+aktualizacji APK do 1.1.2; na starszym APK te 4 pytania mogą pozostać
+wstrzymane. Nie wyłączono ochrony aktualności.
+Pozostałe monitorowane źródła bez zmian. Przegląd komunikatów PZSS, strony
+patentu i przepisów ISSF nie wykazał nowej zmiany wpływającej na bazę.
+Znana nowelizacja depozytów 2026/1317 od 24.10.2026 zmienia § 10,
+nie sprawdzaną w pytaniu P030 zasadę dostępu z § 8.
+Daty przeglądu całej bazy nie przedłużono: reviewUntil = 2026-11-16.
