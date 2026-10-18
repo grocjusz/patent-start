@@ -53,21 +53,21 @@
       "title": "Przechowywanie, noszenie i ewidencjonowanie broni — tekst jednolity",
       "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/364",
       "kind": "meta",
-      "fingerprint": "PENDING"
+      "fingerprint": "2024-03-14T12:47:46"
     },
     {
       "id": "patent",
       "title": "Regulamin patentu PZSS — tekst jednolity (uchw. nr 47/2025)",
       "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf",
       "kind": "sha256",
-      "fingerprint": "PENDING"
+      "fingerprint": "ec6bd972ead74eceeec48d2d537e059816636b98285149086b4a3d9af2f79578"
     },
     {
       "id": "safety",
       "title": "Ogólne zasady bezpieczeństwa PZSS (zał. nr 7 do regulaminu patentu)",
       "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/ogolne-zasady-bezpieczenstwa.pdf",
       "kind": "sha256",
-      "fingerprint": "PENDING"
+      "fingerprint": "a7f115404557840f0fea0ebf99469e4d94ddc78a411e369b7a8eeb2fad56cc4f"
     },
     {
       "id": "issf",
@@ -88,7 +88,7 @@
       "title": "ISSF 2026 — Ogólne przepisy techniczne (tłum. PZSS)",
       "url": "https://www.pzss.org.pl/assets/files/dokumenty/przepisy/kolegium-sedziow/issf/issf-2026/6_general_2.pdf",
       "kind": "sha256",
-      "fingerprint": "PENDING"
+      "fingerprint": "7719a6f6b50d9be8e705a9b575cb692e807cd378db9bbaa75baa810890efcc38"
     },
     {
       "id": "patent-index",
@@ -147,7 +147,7 @@
       "title": "PZSS — regulamin patentu, do którego odnosi się wykaz pytań",
       "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf",
       "kind": "sha256",
-      "fingerprint": "PENDING"
+      "fingerprint": "ec6bd972ead74eceeec48d2d537e059816636b98285149086b4a3d9af2f79578"
     },
     {
       "id": "other",
@@ -161,7 +161,7 @@
       "title": "PZSS — zbiór regulaminów konkurencji poza ISSF 2025–2028 (kontrola dodatkowa)",
       "url": "https://www.pzss.org.pl/assets/files/regulaminy/zbior-reg.-pzss-vi2025-dla-konkurencji-nieobjetych-przepisami-issf-vi-2025.pdf",
       "kind": "sha256",
-      "fingerprint": "PENDING"
+      "fingerprint": "af358f7a7122f1f380bfacb2e3649b819015190e2515e414a93f5ca4bb17e8a4"
     }
   ],
   "questions": [
