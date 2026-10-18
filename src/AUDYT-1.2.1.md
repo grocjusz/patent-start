@@ -1,8 +1,8 @@
 # Zmiany treści 1.2.1 (pakiet 6) — do akceptacji autora
 
-Poprawki wynikają z audytu z 2026-10-18. Każde zmienione pytanie ma nową rewizję i pole `review` ze statusem „do akceptacji”. Po przejrzeniu zmień status na „zaakceptowane” albo popraw treść w `tools/audit-corrections.mjs` i uruchom `node tools/apply-corrections.mjs` na bazie z pakietu 5.
+Poprawki wynikają z audytu z 2026-10-18 i zostały sprawdzone przez niezależnego recenzenta ze źródłami. Każde zmienione pytanie ma nową rewizję i pole `review` ze statusem „do akceptacji”. Treść poprawek jest w `tools/audit-corrections.mjs`; po zmianie uruchom `node tools/apply-corrections.mjs` na bazie z pakietu 5.
 
-Klucz (poprawna odpowiedź) jest zawsze pierwszym wariantem; kolejność w aplikacji jest losowana.
+Klucz (poprawna odpowiedź) jest pogrubiony i zawsze pierwszy; kolejność w aplikacji jest losowana.
 
 ## B011 — istotny (rewizja 3 → 4)
 
@@ -54,7 +54,7 @@ Powód: Wariant „pozwolenia wydane do tego samego celu” można było uznać 
 
 **Pytanie** — było: Czy osoby fizyczne mogą zbywać między sobą broń i amunicję do niej?
 
-**Pytanie** — jest: Między jakimi osobami ustawa dopuszcza zbywanie broni i amunicji do niej?
+**Pytanie** — jest: Kiedy osoba fizyczna może zbyć swoją broń innej osobie fizycznej bez pośrednictwa przedsiębiorcy?
 
 **Warianty — było:**
 
@@ -64,13 +64,13 @@ Powód: Wariant „pozwolenia wydane do tego samego celu” można było uznać 
 
 **Warianty — jest:**
 
-1. **Wyłącznie między osobami, które posiadają pozwolenie na ten sam rodzaj broni.**
-1. Między dowolnymi osobami, jeżeli pozwolenie na ten rodzaj broni ma nabywca.
-1. Między dowolnymi osobami, jeżeli zbywca zawiadomi Policję w ciągu 14 dni.
+1. **Gdy obie osoby mają pozwolenie na ten sam rodzaj broni.**
+1. Gdy nabywca ma pozwolenie na broń, nawet innego rodzaju.
+1. Gdy obie są pełnoletnie i zawrą umowę na piśmie.
 
 **Uzasadnienie** — było: Uprawnienia muszą odpowiadać transakcji; nabycie broni następuje w granicach pozwolenia i na właściwe zaświadczenie.
 
-**Uzasadnienie** — jest: Art. 21 ust. 1 wymaga, by pozwolenie na ten sam rodzaj broni miały obie strony. Zbywca niezwłocznie powiadamia pisemnie właściwy organ Policji (art. 21 ust. 2), a nie w terminie 14 dni.
+**Uzasadnienie** — jest: Art. 21 ust. 1 dopuszcza zbywanie broni i amunicji między osobami posiadającymi pozwolenie na ten sam rodzaj broni. Zbywca niezwłocznie powiadamia pisemnie właściwy organ Policji (art. 21 ust. 2). Pytanie nie dotyczy zbycia za pośrednictwem przedsiębiorcy uprawnionego do obrotu bronią.
 
 **Podstawa** — było: art. 21 ust. 1
 
@@ -116,13 +116,13 @@ Powód: Przepis mówi „naboju(ów) i/lub magazynka”, więc dawny wariant C (
 
 **Warianty — jest:**
 
-1. **Po usunięciu nabojów i magazynka oraz dopiero po otwarciu mechanizmu.**
+1. **Po usunięciu nabojów i/lub magazynka oraz po otwarciu mechanizmu.**
 1. Po usunięciu nabojów i magazynka, przy zamkniętym mechanizmie.
-1. Po wyjęciu magazynka, z nabojem w komorze i otwartym mechanizmem.
+1. Po zabezpieczeniu bezpiecznikiem, bez otwierania mechanizmu.
 
 **Uzasadnienie** — było: W broni pneumatycznej musi być otwarty otwór ładowania lub mechanizm napinania; obowiązują też wskaźniki bezpieczeństwa.
 
-**Uzasadnienie** — jest: Przepis 6.2.2.6 pozwala odłożyć broń dopiero po usunięciu naboju(ów) i/lub magazynka oraz otwarciu mechanizmu. Broń z nabojem w komorze albo z zamkniętym mechanizmem nie spełnia tego warunku. Wskaźniki bezpieczeństwa reguluje 6.2.2.2.
+**Uzasadnienie** — jest: Przepis 6.2.2.6 pozwala odłożyć broń po usunięciu naboju(ów) i/lub magazynka oraz otwarciu mechanizmu. Zamknięty mechanizm albo samo włączenie bezpiecznika nie spełnia tego warunku. Pustą komorę potwierdza wskaźnik bezpieczeństwa (6.2.2.2).
 
 **Podstawa** — było: 6.2.2.6
 
@@ -210,15 +210,27 @@ Powód: Dotychczasowy klucz był błędny: art. 22 ust. 1a mówi o pozbawieniu b
 
 ## B045 — istotny (rewizja 1 → 2)
 
-Powód: Podstawa pochodziła z wersji zasad PZSS z 2019 r.
+Powód: Podstawa pochodziła z wersji zasad PZSS z 2019 r.; dawne brzmienie powielało B011 i zdradzało odpowiedź, więc pytanie dotyczy teraz drugiej części tego samego zakazu.
 
 **Pytanie** — było: Czy zakaz przebywania na strzelnicy pod wpływem substancji psychoaktywnych obejmuje osobę niestrzelającą?
 
-**Pytanie** — jest: Czy zakaz przebywania na strzelnicy osób pod wpływem alkoholu lub środków odurzających obejmuje osobę niestrzelającą?
+**Pytanie** — jest: Czego, oprócz przebywania osób pod wpływem alkoholu, zakazuje ten sam punkt wzorcowego regulaminu strzelnic?
+
+**Warianty — było:**
+
+1. **Tak; dotyczy przebywania na strzelnicy.**
+1. Nie; dotyczy wyłącznie oddawania strzałów.
+1. Nie; dotyczy wyłącznie ładowania broni.
+
+**Warianty — jest:**
+
+1. **Spożywania alkoholu i używania środków odurzających na terenie strzelnicy.**
+1. Sprzedaży napojów alkoholowych, ale nie ich spożywania przez widzów.
+1. Przechowywania alkoholu w samochodach na parkingu przy strzelnicy w czasie zawodów.
 
 **Uzasadnienie** — było: Status obserwatora nie wyłącza zakazu.
 
-**Uzasadnienie** — jest: Regulamin strzelnicy zakazuje samego przebywania na jej terenie osób pod wpływem alkoholu lub środków odurzających, więc status obserwatora nie wyłącza zakazu.
+**Uzasadnienie** — jest: Wzorcowy regulamin strzelnic w jednym punkcie zakazuje spożywania alkoholu lub używania środków odurzających oraz przebywania na terenie strzelnicy osób będących pod ich wpływem (zał., rozdz. 1 ust. 2 pkt 3). Samo przebywanie pod wpływem obejmuje też obserwatorów (zob. B011).
 
 **Podstawa** — było: § 3 pkt 18
 
@@ -246,15 +258,15 @@ Powód: Klucz „bezterminowo” pomijał wygaśnięcie patentu z mocy prawa (§
 
 **Uzasadnienie** — było: Nie należy mylić patentu z okresowymi uprawnieniami lub ważnością EKB.
 
-**Uzasadnienie** — jest: Regulamin nie określa terminu ważności patentu (§ 3 ust. 8), ale zastrzega § 6 i § 6a. Patent wygasa z mocy prawa, gdy posiadacz nie wystąpi o licencję do 31 grudnia roku następującego po roku nadania albo nie odnowi licencji do 31 marca drugiego roku po jej wygaśnięciu. Terminy liczy się od 1 stycznia 2026 r. (§ 26 ust. 3).
+**Uzasadnienie** — jest: Regulamin nie określa terminu ważności patentu (§ 3 ust. 8), ale zastrzega § 6 i § 6a. Według § 6a ust. 1 patent wygasa z mocy prawa, gdy posiadacz nie wystąpi o żadną licencję w roku nadania ani do 31 grudnia roku następnego albo gdy po wygaśnięciu ostatniej licencji nie wystąpi o jej wydanie lub przedłużenie do 31 marca drugiego roku po wygaśnięciu. Przepis przejściowy (§ 26 ust. 3) liczy terminy wygaszania od 1 stycznia 2026 r.; odsyła przy tym do „§ 6 ust. 1”, co wygląda na błąd redakcyjny regulaminu.
 
 **Podstawa** — było: § 3 ust. 8
 
-**Podstawa** — jest: Regulamin patentu, tekst jednolity uchw. 47/2025: § 3 ust. 8, § 6a, § 26 ust. 3
+**Podstawa** — jest: Regulamin patentu, tekst jednolity uchw. 47/2025: § 3 ust. 8, § 6a ust. 1, § 26 ust. 3
 
 ## Wycofane tymczasowo (12)
 
-T056–T062 (karabinek CZ 457) i B061–B065. Jedynym źródłem jest instrukcja producenta na domenie spoza listy aplikacji 1.1.x, a B061–B065 miały błędnie opisaną podstawę („zasady bezpieczeństwa pkt …” to punkty instrukcji CZ 457). Pytania wrócą w pakiecie z polem `minApp: 6` (wymaga aplikacji 1.2.1), gdy zostaną poprawione i użytkownicy zainstalują nową wersję.
+T056–T062 (karabinek CZ 457) i B061–B065. Jedynym źródłem jest instrukcja producenta z domeny spoza listy aplikacji 1.1.x, a B061–B065 miały błędnie opisaną podstawę („zasady bezpieczeństwa pkt …” to punkty instrukcji CZ 457). Pytania mogą wrócić w pakiecie z polem `minApp: 6` (wymaga aplikacji 1.2.1) po poprawieniu podstaw.
 
 ## Źródła
 
@@ -265,4 +277,4 @@ T056–T062 (karabinek CZ 457) i B061–B065. Jedynym źródłem jest instrukcja
 - `patent-index`: links https://www.pzss.org.pl/patenty-licencje/terminy-egzaminow → sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/zalaczniki_regulamin_patent.pdf
 - `official-index`: links https://www.pzss.org.pl/patenty-licencje/patent-strzelecki → sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf
 - `other-index`: links https://www.pzss.org.pl/komisje/komisja-konkurencji-strzeleckich-nie-objetych-przepisami-issf → sha256 https://www.pzss.org.pl/assets/files/regulaminy/zbior-reg.-pzss-vi2025-dla-konkurencji-nieobjetych-przepisami-issf-vi-2025.pdf
-- `cz457`: usunięte (wraz z zależnymi pytaniami).
+- `cz457`: usunięte razem z zależnymi pytaniami.

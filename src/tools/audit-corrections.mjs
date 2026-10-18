@@ -67,13 +67,13 @@ export const questions = [
     note: 'Wariant „pozwolenia wydane do tego samego celu” można było uznać za poprawny obok klucza.',
     fields: {
       ref: 'art. 21 ust. 1–2',
-      q: 'Między jakimi osobami ustawa dopuszcza zbywanie broni i amunicji do niej?',
+      q: 'Kiedy osoba fizyczna może zbyć swoją broń innej osobie fizycznej bez pośrednictwa przedsiębiorcy?',
       answers: [
-        'Wyłącznie między osobami, które posiadają pozwolenie na ten sam rodzaj broni.',
-        'Między dowolnymi osobami, jeżeli pozwolenie na ten rodzaj broni ma nabywca.',
-        'Między dowolnymi osobami, jeżeli zbywca zawiadomi Policję w ciągu 14 dni.'
+        'Gdy obie osoby mają pozwolenie na ten sam rodzaj broni.',
+        'Gdy nabywca ma pozwolenie na broń, nawet innego rodzaju.',
+        'Gdy obie są pełnoletnie i zawrą umowę na piśmie.'
       ],
-      why: 'Art. 21 ust. 1 wymaga, by pozwolenie na ten sam rodzaj broni miały obie strony. Zbywca niezwłocznie powiadamia pisemnie właściwy organ Policji (art. 21 ust. 2), a nie w terminie 14 dni.'
+      why: 'Art. 21 ust. 1 dopuszcza zbywanie broni i amunicji między osobami posiadającymi pozwolenie na ten sam rodzaj broni. Zbywca niezwłocznie powiadamia pisemnie właściwy organ Policji (art. 21 ust. 2). Pytanie nie dotyczy zbycia za pośrednictwem przedsiębiorcy uprawnionego do obrotu bronią.'
     }
   },
   {
@@ -83,11 +83,11 @@ export const questions = [
       ref: 'ISSF, Ogólne przepisy techniczne 6.2.2.6; 6.2.2.2',
       q: 'Kiedy przepisy ISSF pozwalają odłożyć broń na stanowisku?',
       answers: [
-        'Po usunięciu nabojów i magazynka oraz dopiero po otwarciu mechanizmu.',
+        'Po usunięciu nabojów i/lub magazynka oraz po otwarciu mechanizmu.',
         'Po usunięciu nabojów i magazynka, przy zamkniętym mechanizmie.',
-        'Po wyjęciu magazynka, z nabojem w komorze i otwartym mechanizmem.'
+        'Po zabezpieczeniu bezpiecznikiem, bez otwierania mechanizmu.'
       ],
-      why: 'Przepis 6.2.2.6 pozwala odłożyć broń dopiero po usunięciu naboju(ów) i/lub magazynka oraz otwarciu mechanizmu. Broń z nabojem w komorze albo z zamkniętym mechanizmem nie spełnia tego warunku. Wskaźniki bezpieczeństwa reguluje 6.2.2.2.'
+      why: 'Przepis 6.2.2.6 pozwala odłożyć broń po usunięciu naboju(ów) i/lub magazynka oraz otwarciu mechanizmu. Zamknięty mechanizm albo samo włączenie bezpiecznika nie spełnia tego warunku. Pustą komorę potwierdza wskaźnik bezpieczeństwa (6.2.2.2).'
     }
   },
   {
@@ -114,12 +114,17 @@ export const questions = [
   },
   {
     id: 'B045', fromRevision: 1, severity: 'istotny',
-    note: 'Podstawa pochodziła z wersji zasad PZSS z 2019 r.',
+    note: 'Podstawa pochodziła z wersji zasad PZSS z 2019 r.; dawne brzmienie powielało B011 i zdradzało odpowiedź, więc pytanie dotyczy teraz drugiej części tego samego zakazu.',
     fields: {
       sources: ['range'],
       ref: 'wzorcowy regulamin strzelnic, zał., rozdz. 1 ust. 2 pkt 3',
-      q: 'Czy zakaz przebywania na strzelnicy osób pod wpływem alkoholu lub środków odurzających obejmuje osobę niestrzelającą?',
-      why: 'Regulamin strzelnicy zakazuje samego przebywania na jej terenie osób pod wpływem alkoholu lub środków odurzających, więc status obserwatora nie wyłącza zakazu.'
+      q: 'Czego, oprócz przebywania osób pod wpływem alkoholu, zakazuje ten sam punkt wzorcowego regulaminu strzelnic?',
+      answers: [
+        'Spożywania alkoholu i używania środków odurzających na terenie strzelnicy.',
+        'Sprzedaży napojów alkoholowych, ale nie ich spożywania przez widzów.',
+        'Przechowywania alkoholu w samochodach na parkingu przy strzelnicy w czasie zawodów.'
+      ],
+      why: 'Wzorcowy regulamin strzelnic w jednym punkcie zakazuje spożywania alkoholu lub używania środków odurzających oraz przebywania na terenie strzelnicy osób będących pod ich wpływem (zał., rozdz. 1 ust. 2 pkt 3). Samo przebywanie pod wpływem obejmuje też obserwatorów (zob. B011).'
     }
   },
   {
@@ -140,13 +145,13 @@ export const questions = [
     id: 'R058', fromRevision: 1, severity: 'istotny',
     note: 'Klucz „bezterminowo” pomijał wygaśnięcie patentu z mocy prawa (§ 6a, terminy od 2026-01-01).',
     fields: {
-      ref: 'Regulamin patentu, tekst jednolity uchw. 47/2025: § 3 ust. 8, § 6a, § 26 ust. 3',
+      ref: 'Regulamin patentu, tekst jednolity uchw. 47/2025: § 3 ust. 8, § 6a ust. 1, § 26 ust. 3',
       answers: [
         'Bez terminu, ale patent wygasa, jeśli posiadacz nie występuje o licencję w terminach regulaminu.',
         'Na pięć lat; po tym czasie trzeba ponownie zdać cały egzamin patentowy przed komisją PZSS.',
         'Na czas posiadania pozwolenia na broń sportową; cofnięcie pozwolenia kończy ważność patentu.'
       ],
-      why: 'Regulamin nie określa terminu ważności patentu (§ 3 ust. 8), ale zastrzega § 6 i § 6a. Patent wygasa z mocy prawa, gdy posiadacz nie wystąpi o licencję do 31 grudnia roku następującego po roku nadania albo nie odnowi licencji do 31 marca drugiego roku po jej wygaśnięciu. Terminy liczy się od 1 stycznia 2026 r. (§ 26 ust. 3).'
+      why: 'Regulamin nie określa terminu ważności patentu (§ 3 ust. 8), ale zastrzega § 6 i § 6a. Według § 6a ust. 1 patent wygasa z mocy prawa, gdy posiadacz nie wystąpi o żadną licencję w roku nadania ani do 31 grudnia roku następnego albo gdy po wygaśnięciu ostatniej licencji nie wystąpi o jej wydanie lub przedłużenie do 31 marca drugiego roku po wygaśnięciu. Przepis przejściowy (§ 26 ust. 3) liczy terminy wygaszania od 1 stycznia 2026 r.; odsyła przy tym do „§ 6 ust. 1”, co wygląda na błąd redakcyjny regulaminu.'
     }
   },
   { id: 'R026', fromRevision: 2, severity: 'istotny', note: 'Przepis 7.10 nie istnieje. ' + ISSF_NOTE, fields: { ref: '7.7.5 (tabela parametrów karabinów); 7.4.4.2 poz. M' } },
