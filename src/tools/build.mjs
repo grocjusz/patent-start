@@ -30,7 +30,7 @@ if(!fs.existsSync(ks)){
  fs.writeFileSync(pw,crypto.randomBytes(32).toString('hex'),{mode:0o600});
  run(bin('keytool'),['-genkeypair','-keystore',ks,'-storetype','PKCS12','-storepass:file',pw,'-keypass:file',pw,'-alias','patent-start','-keyalg','RSA','-keysize','3072','-validity','10000','-dname','CN=Patent Start, OU=Personal Learning, O=Patent Start, C=PL']);
 }
-const out=path.resolve(root,'../Patent-Start-1.2.0.apk');
+const out=path.resolve(root,'../Patent-Start-1.2.1.apk');
 run(bin('java'),['-jar',path.join(bt,'lib/apksigner.jar'),'sign','--ks',ks,'--ks-pass','file:'+pw,'--out',out,aligned]);
 run(bin('java'),['-jar',path.join(bt,'lib/apksigner.jar'),'verify','--verbose','--print-certs',out]);
 run(aapt,['dump','badging',out]);

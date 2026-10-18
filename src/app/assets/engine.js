@@ -10,6 +10,14 @@
   const interval=!correct?10*60000:confidence===0?12*3600000:confidence===1?day:intervals[Math.max(0,level-1)]*day;
   return {...prev,level,seen:(prev.seen||0)+1,right:(prev.right||0)+(correct?1:0),wrong:(prev.wrong||0)+(correct?0:1),lastCorrect:correct,confidence,lastAt:now,due:early?Math.min(prev.due,now+interval):now+interval};
  }
+ // Próba egzaminu nie ocenia pewności odpowiedzi. Poprawna odpowiedź nie może więc
+ // obniżać poziomu utrwalenia ani przyspieszać powtórki (audyt 2026-10-18, F-1).
+ // Błąd w próbie traktujemy jak błąd w nauce.
+ function recordExam(prev={},correct,now=Date.now()){
+  if(!correct)return schedule(prev,false,0,now);
+  if(!prev.seen)return schedule(prev,true,1,now);
+  return {...prev,seen:(prev.seen||0)+1,right:(prev.right||0)+1,lastCorrect:true,lastAt:now};
+ }
  function available(q,bank,status={},now=Date.now()){
   if(now>new Date(bank.reviewUntil+'T23:59:59').getTime())return false;
   return !q.sources.some(s=>{const ss=(status.sources||{})[s]||{};const matched=ss.lastMatchedAt||new Date(bank.releaseDate+'T12:00:00').getTime();return ss.changed||now-matched>7*day;});
@@ -31,6 +39,6 @@
   const priority=q=>{const p=progress[key(q)];return !p?2:(!p.lastCorrect?0:p.due<=now?1:3);};
   return shuffle(qs).sort((a,b)=>priority(a)-priority(b)).slice(0,limit);
  }
- const api={day,shuffle,key,schedule,available,exam,grade,select};global.Engine=api;
+ const api={day,shuffle,key,schedule,recordExam,available,exam,grade,select};global.Engine=api;
  if(typeof module!=='undefined')module.exports=api;
 })(typeof window!=='undefined'?window:globalThis);
