@@ -5,6 +5,7 @@ import {sourceFingerprint} from './source-fingerprint.mjs';
 import {applyAnswerDesign} from './answer-design.mjs';
 import {expandOfficial} from './official-coverage.mjs';
 import {expandComprehensive} from './comprehensive.mjs';
+import {applyAuditCorrections} from './audit-corrections.mjs';
 const root=path.resolve(import.meta.dirname,'..');
 const research=path.resolve(root,'../../../work/research');
 const sources=[
@@ -149,5 +150,7 @@ for(const [id,title,url,file,kind] of [
 Object.assign(bank,{version:5,releaseDate:'2026-10-18',answerDesign:{version:2,reviewedAt:'2026-10-18',reviewedCount:questions.length,description:'Jedna poprawna odpowiedź; podobne warianty dotyczące tego samego zagadnienia. Pytania pojęciowe, porównawcze i sytuacyjne.'}});
 bank.notice='400 autorskich pytań w pięciu działach egzaminu, w tym zakres 142 pozycji wykazu PZSS, konkurencje poza ISSF i zadania sytuacyjne. Wykaz PZSS nie jest gwarancją zamkniętej puli przyszłych egzaminów. Ucz się uzasadnień i źródeł, nie samych liter odpowiedzi.';
 for(const id of ['gauge','rimfire','centerfire']){const s=sources.find(s=>s.id===id);s.scope='html-main-v1';s.fingerprint=sourceFingerprint(s,fs.readFileSync(path.join(research,id+'.html')));}
+// Poprawki z audytu 2026-10-18 nanosimy na końcu, aby odtworzenie bazy ich nie gubiło.
+applyAuditCorrections(bank);
 fs.writeFileSync(path.join(root,'app/assets/bank.json'),JSON.stringify(bank,null,2));
 console.log('Questions:',questions.length,'Categories:',bank.categories.map((_,i)=>questions.filter(q=>q.cat===i).length));

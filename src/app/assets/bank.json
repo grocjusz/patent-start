@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": 5,
+  "version": 6,
   "releaseDate": "2026-10-18",
   "reviewUntil": "2026-11-16",
   "title": "Patent Start",
-  "notice": "400 autorskich pytań w pięciu działach egzaminu, w tym zakres 142 pozycji wykazu PZSS, konkurencje poza ISSF i zadania sytuacyjne. Wykaz PZSS nie jest gwarancją zamkniętej puli przyszłych egzaminów. Ucz się uzasadnień i źródeł, nie samych liter odpowiedzi.",
+  "notice": "Poprawki po audycie z 18.10.2026. Jeśli masz aplikację w wersji 1.1.x lub 1.2.0, zainstaluj wersję 1.2.1 ze strony grocjusz.github.io/patent-start. Autorskie pytania w pięciu działach egzaminu, w tym zakres 142 pozycji wykazu PZSS. Wykaz PZSS nie jest gwarancją zamkniętej puli przyszłych egzaminów. Ucz się uzasadnień i źródeł, nie samych liter odpowiedzi.",
   "officialCoverage": {
     "total": 142,
     "source": "official-list",
@@ -50,24 +50,24 @@
     },
     {
       "id": "storage",
-      "title": "Przechowywanie broni i amunicji",
-      "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/1224",
+      "title": "Przechowywanie, noszenie i ewidencjonowanie broni — tekst jednolity",
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/364",
       "kind": "meta",
-      "fingerprint": "2024-03-14T20:16:45"
+      "fingerprint": "PENDING"
     },
     {
       "id": "patent",
-      "title": "Regulamin patentowy PZSS",
-      "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patent-strzelecki-2025.pdf",
+      "title": "Regulamin patentu PZSS — tekst jednolity (uchw. nr 47/2025)",
+      "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf",
       "kind": "sha256",
-      "fingerprint": "cd39398086903936097cb0435c1541fa5870b2c4d2775d823534c6567ef3c0f3"
+      "fingerprint": "PENDING"
     },
     {
       "id": "safety",
-      "title": "Ogólne zasady bezpieczeństwa PZSS",
-      "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/ogolne-zasady-bezpieczenstwa-w-sporcie-strzeleckim.pdf",
+      "title": "Ogólne zasady bezpieczeństwa PZSS (zał. nr 7 do regulaminu patentu)",
+      "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/ogolne-zasady-bezpieczenstwa.pdf",
       "kind": "sha256",
-      "fingerprint": "a2cc41b701f5bd5dafc55d3a399bf50e0ac734bb6044d65b0dec886d6daa81aa"
+      "fingerprint": "PENDING"
     },
     {
       "id": "issf",
@@ -85,17 +85,17 @@
     },
     {
       "id": "issf-index",
-      "title": "PZSS — wykaz aktualnych przepisów ISSF",
-      "url": "https://www.pzss.org.pl/sedziowie/przepisy-issf-i-interpretacje",
-      "kind": "links",
-      "fingerprint": "87e88e03480a33703569c6f64f331a44e107ea795c4333da58e9c4ee37c6433b"
+      "title": "ISSF 2026 — Ogólne przepisy techniczne (tłum. PZSS)",
+      "url": "https://www.pzss.org.pl/assets/files/dokumenty/przepisy/kolegium-sedziow/issf/issf-2026/6_general_2.pdf",
+      "kind": "sha256",
+      "fingerprint": "PENDING"
     },
     {
       "id": "patent-index",
-      "title": "PZSS — aktualny regulamin egzaminu",
-      "url": "https://www.pzss.org.pl/patenty-licencje/terminy-egzaminow",
-      "kind": "links",
-      "fingerprint": "e2d44148c00d126487fc72c268c50ef91535c61a0a41dc0b50f4c91ab19f86ec"
+      "title": "PZSS — załączniki do regulaminu patentu (m.in. zał. nr 7)",
+      "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/zalaczniki_regulamin_patent.pdf",
+      "kind": "sha256",
+      "fingerprint": "PENDING"
     },
     {
       "id": "official-list",
@@ -144,10 +144,10 @@
     },
     {
       "id": "official-index",
-      "title": "PZSS — dokumenty i wykaz pytań",
-      "url": "https://www.pzss.org.pl/patenty-licencje/patent-strzelecki",
-      "kind": "links",
-      "fingerprint": "85b2dc4d08087bfdfd67184f98fff5899a572a77d69c3b7ec1ae76b7816f513e"
+      "title": "PZSS — regulamin patentu, do którego odnosi się wykaz pytań",
+      "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf",
+      "kind": "sha256",
+      "fingerprint": "PENDING"
     },
     {
       "id": "other",
@@ -158,17 +158,10 @@
     },
     {
       "id": "other-index",
-      "title": "PZSS — aktualne przepisy konkurencji poza ISSF",
-      "url": "https://www.pzss.org.pl/komisje/komisja-konkurencji-strzeleckich-nie-objetych-przepisami-issf",
-      "kind": "links",
-      "fingerprint": "b330402300a61cea39d7bff2d43d5dc63249c76da417426c38ca092c1a0dd5bc"
-    },
-    {
-      "id": "cz457",
-      "title": "CZ — instrukcja karabinka sportowego 457",
-      "url": "https://czubstrapiwebsitestorage.blob.core.windows.net/strapi-global/assets/cz_457_72f7aedd89.pdf",
+      "title": "PZSS — zbiór regulaminów konkurencji poza ISSF 2025–2028 (kontrola dodatkowa)",
+      "url": "https://www.pzss.org.pl/assets/files/regulaminy/zbior-reg.-pzss-vi2025-dla-konkurencji-nieobjetych-przepisami-issf-vi-2025.pdf",
       "kind": "sha256",
-      "fingerprint": "0365e8017e2f5ce28fec23a698328b8766ee9fccb3dea76d55b1ad8c9f68fd31"
+      "fingerprint": "PENDING"
     }
   ],
   "questions": [
@@ -879,14 +872,14 @@
     },
     {
       "id": "B011",
-      "revision": 3,
+      "revision": 4,
       "cat": 1,
       "sources": [
-        "safety",
+        "range",
         "official-list",
         "official-index"
       ],
-      "ref": "§ 3 pkt 18",
+      "ref": "wzorcowy regulamin strzelnic, zał., rozdz. 1 ust. 2 pkt 3",
       "q": "Czy osoba pod wpływem alkoholu może przebywać na strzelnicy jako obserwator?",
       "answers": [
         "Nie; zakaz dotyczy także obserwatorów.",
@@ -894,33 +887,46 @@
         "Tak; pod opieką trzeźwego uczestnika."
       ],
       "correct": 0,
-      "why": "Zakaz nie ogranicza się do osób strzelających.",
+      "why": "Regulamin strzelnicy zakazuje przebywania na jej terenie osób pod wpływem alkoholu lub środków odurzających. Zakaz nie dotyczy wyłącznie strzelających.",
       "form": "Wiedza",
       "verifiedAt": "2026-10-18",
       "officialNumbers": [
         64
       ],
-      "topic": "core-1"
+      "topic": "core-1",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Punkt o alkoholu usunięto z obowiązujących zasad PZSS; zakaz wynika z regulaminu strzelnicy.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "B012",
-      "revision": 2,
+      "revision": 3,
       "cat": 1,
       "sources": [
-        "safety"
+        "safety",
+        "range"
       ],
-      "ref": "§ 3 pkt 19",
+      "ref": "Ogólne zasady bezpieczeństwa PZSS § 3 pkt 18; wzorcowy regulamin strzelnic, zał., rozdz. 3 ust. 7",
       "q": "Pod jakim warunkiem dzieci mogą przebywać na strzelnicy?",
       "answers": [
-        "Pod bezpośrednim nadzorem rodzica lub opiekuna.",
-        "Pod ogólnym nadzorem prowadzącego, bez opiekuna.",
-        "Pod nadzorem uczestnika, któremu nie powierzono opieki."
+        "Pod bezpośrednim nadzorem rodzica, opiekuna prawnego lub osoby wyznaczonej do opieki.",
+        "Pod ogólnym nadzorem prowadzącego strzelanie, bez osoby opiekującej się dzieckiem.",
+        "Pod nadzorem dowolnego uczestnika, któremu nie powierzono opieki nad dzieckiem."
       ],
       "correct": 0,
-      "why": "Zasady wymagają bezpośredniego nadzoru.",
+      "why": "Zasady PZSS (§ 3 pkt 18) wymagają bezpośredniego nadzoru opiekunów prawnych lub osób wyznaczonych do opieki na podstawie innych przepisów. Regulamin strzelnicy mówi o rodzicach lub opiekunach.",
       "form": "Wiedza",
       "verifiedAt": "2026-10-18",
-      "topic": "core-1"
+      "topic": "core-1",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "W obowiązującej wersji zasad PZSS to § 3 pkt 18 z nowym brzmieniem.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "B013",
@@ -2152,28 +2158,34 @@
     },
     {
       "id": "P026",
-      "revision": 2,
+      "revision": 3,
       "cat": 0,
       "sources": [
         "law",
         "official-list",
         "official-index"
       ],
-      "ref": "art. 21 ust. 1",
-      "q": "Czy osoby fizyczne mogą zbywać między sobą broń i amunicję do niej?",
+      "ref": "art. 21 ust. 1–2",
+      "q": "Między jakimi osobami ustawa dopuszcza zbywanie broni i amunicji do niej?",
       "answers": [
-        "Tak, jeśli mają pozwolenia na ten sam rodzaj broni.",
-        "Tak, jeśli mają pozwolenia wydane do tego samego celu.",
-        "Tak, jeśli co najmniej nabywca ma pozwolenie na ten rodzaj broni."
+        "Wyłącznie między osobami, które posiadają pozwolenie na ten sam rodzaj broni.",
+        "Między dowolnymi osobami, jeżeli pozwolenie na ten rodzaj broni ma nabywca.",
+        "Między dowolnymi osobami, jeżeli zbywca zawiadomi Policję w ciągu 14 dni."
       ],
       "correct": 0,
-      "why": "Uprawnienia muszą odpowiadać transakcji; nabycie broni następuje w granicach pozwolenia i na właściwe zaświadczenie.",
+      "why": "Art. 21 ust. 1 wymaga, by pozwolenie na ten sam rodzaj broni miały obie strony. Zbywca niezwłocznie powiadamia pisemnie właściwy organ Policji (art. 21 ust. 2), a nie w terminie 14 dni.",
       "form": "Zakres PZSS",
       "verifiedAt": "2026-10-18",
       "officialNumbers": [
         13
       ],
-      "topic": "core-0"
+      "topic": "core-0",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "krytyczny",
+        "note": "Wariant „pozwolenia wydane do tego samego celu” można było uznać za poprawny obok klucza.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "P027",
@@ -3057,33 +3069,39 @@
     },
     {
       "id": "B025",
-      "revision": 2,
+      "revision": 3,
       "cat": 1,
       "sources": [
         "safety",
         "official-list",
         "official-index"
       ],
-      "ref": "zasady PZSS, komendy i zakończenie strzelania",
+      "ref": "Ogólne zasady bezpieczeństwa PZSS (zał. nr 7 do regulaminu patentu), § 3 pkt 10 i 14",
       "q": "Jak należy doprowadzić broń do bezpiecznego stanu po komendzie „ROZŁADUJ”?",
       "answers": [
-        "Rozładować, sprawdzić, przedstawić do kontroli i pozostawić otwartą ze wskaźnikiem.",
-        "Rozładować, sprawdzić, przedstawić do kontroli i pozostawić zamkniętą bez wskaźnika.",
-        "Rozładować, sprawdzić, wprowadzić wskaźnik i odejść bez kontroli prowadzącego."
+        "Rozładować, włożyć wskaźnik bezpieczeństwa do komory i w takim stanie umieścić na stanowisku.",
+        "Rozładować, zamknąć zamek bez wskaźnika bezpieczeństwa i w takim stanie umieścić na stanowisku.",
+        "Rozładować, włożyć wskaźnik bezpieczeństwa do komory i od razu opuścić stanowisko z bronią."
       ],
       "correct": 0,
-      "why": "Zachowuj kierunek bezpieczny. Dokładne czynności zależą od konstrukcji broni i poleceń prowadzącego.",
+      "why": "Po komendzie „ROZŁADUJ” broń się rozładowuje, zabezpiecza wskaźnikiem bezpieczeństwa w komorze nabojowej (lufie) i w takim stanie umieszcza na stanowisku (§ 3 pkt 10). Przedstawienie broni do kontroli prowadzącemu to osobny obowiązek po zakończeniu strzelania, przed opuszczeniem stanowiska (§ 3 pkt 14).",
       "form": "Zakres PZSS",
       "verifiedAt": "2026-10-18",
       "officialNumbers": [
         68,
         77
       ],
-      "topic": "core-1"
+      "topic": "core-1",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Klucz łączył komendę ROZŁADUJ (§ 3 pkt 10) z kontrolą prowadzącego po zakończeniu strzelania (§ 3 pkt 14).",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "B026",
-      "revision": 2,
+      "revision": 3,
       "cat": 1,
       "sources": [
         "issf",
@@ -3091,21 +3109,27 @@
         "official-index",
         "issf-index"
       ],
-      "ref": "6.2.2.6",
-      "q": "Kiedy przepisy ISSF pozwalają odłożyć broń?",
+      "ref": "ISSF, Ogólne przepisy techniczne 6.2.2.6; 6.2.2.2",
+      "q": "Kiedy przepisy ISSF pozwalają odłożyć broń na stanowisku?",
       "answers": [
-        "Po usunięciu naboju lub nabojów i magazynka, z otwartym mechanizmem.",
-        "Po usunięciu naboju lub nabojów i magazynka, z zamkniętym mechanizmem.",
-        "Po usunięciu naboju z komory, z dołączonym pustym magazynkiem i otwartym mechanizmem."
+        "Po usunięciu nabojów i magazynka oraz dopiero po otwarciu mechanizmu.",
+        "Po usunięciu nabojów i magazynka, przy zamkniętym mechanizmie.",
+        "Po wyjęciu magazynka, z nabojem w komorze i otwartym mechanizmem."
       ],
       "correct": 0,
-      "why": "W broni pneumatycznej musi być otwarty otwór ładowania lub mechanizm napinania; obowiązują też wskaźniki bezpieczeństwa.",
+      "why": "Przepis 6.2.2.6 pozwala odłożyć broń dopiero po usunięciu naboju(ów) i/lub magazynka oraz otwarciu mechanizmu. Broń z nabojem w komorze albo z zamkniętym mechanizmem nie spełnia tego warunku. Wskaźniki bezpieczeństwa reguluje 6.2.2.2.",
       "form": "Zakres PZSS",
       "verifiedAt": "2026-10-18",
       "officialNumbers": [
         70
       ],
-      "topic": "core-1"
+      "topic": "core-1",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "krytyczny",
+        "note": "Przepis mówi „naboju(ów) i/lub magazynka”, więc dawny wariant C (pusty magazynek, otwarty mechanizm) też spełniał przepis.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "B027",
@@ -3568,7 +3592,7 @@
     },
     {
       "id": "R026",
-      "revision": 2,
+      "revision": 3,
       "cat": 2,
       "sources": [
         "issf",
@@ -3576,7 +3600,7 @@
         "official-index",
         "issf-index"
       ],
-      "ref": "7.10, tabela specyfikacji karabinów",
+      "ref": "7.7.5 (tabela parametrów karabinów); 7.4.4.2 poz. M",
       "q": "Jaka jest maksymalna masa karabinu pneumatycznego 10 m ISSF z przyrządami celowniczymi?",
       "answers": [
         "5,5 kg.",
@@ -3590,7 +3614,13 @@
       "officialNumbers": [
         99
       ],
-      "topic": "core-2"
+      "topic": "core-2",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Przepis 7.10 nie istnieje. Rozdział 7 przepisów karabinowych ISSF 2026 kończy się na 7.8; tabela konkurencji karabinowych to 7.7.4, tabela parametrów 7.7.5, tabela konkurencji pistoletowych 8.11.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "R027",
@@ -3854,7 +3884,7 @@
     },
     {
       "id": "R037",
-      "revision": 2,
+      "revision": 3,
       "cat": 2,
       "sources": [
         "issf",
@@ -3862,8 +3892,8 @@
         "official-index",
         "issf-index"
       ],
-      "ref": "7.9, tabela konkurencji",
-      "q": "Na jaki dystans strzela się karabin 60 strzałów leżąc, kalibru 5,6 mm?",
+      "ref": "7.7.4 (tabela konkurencji karabinowych)",
+      "q": "Na jaki dystans strzela się konkurencję karabinu małokalibrowego (5,6 mm bocznego zapłonu) 60 strzałów leżąc?",
       "answers": [
         "50 m.",
         "25 m.",
@@ -3876,7 +3906,13 @@
       "officialNumbers": [
         110
       ],
-      "topic": "core-2"
+      "topic": "core-2",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Przepis 7.9 nie istnieje; treść nie odróżniała konkurencji 50 m od 300 m. Rozdział 7 przepisów karabinowych ISSF 2026 kończy się na 7.8; tabela konkurencji karabinowych to 7.7.4, tabela parametrów 7.7.5, tabela konkurencji pistoletowych 8.11.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "R038",
@@ -3958,7 +3994,7 @@
     },
     {
       "id": "R041",
-      "revision": 2,
+      "revision": 3,
       "cat": 2,
       "sources": [
         "issf",
@@ -3966,7 +4002,7 @@
         "official-index",
         "issf-index"
       ],
-      "ref": "7.9",
+      "ref": "7.7.4 (tabela konkurencji karabinowych)",
       "q": "Jakie dystanse obejmują tarczowe konkurencje karabinowe ISSF?",
       "answers": [
         "10, 50 i 300 m.",
@@ -3980,11 +4016,17 @@
       "officialNumbers": [
         114
       ],
-      "topic": "core-2"
+      "topic": "core-2",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Przepis 7.9 nie istnieje. Rozdział 7 przepisów karabinowych ISSF 2026 kończy się na 7.8; tabela konkurencji karabinowych to 7.7.4, tabela parametrów 7.7.5, tabela konkurencji pistoletowych 8.11.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "R042",
-      "revision": 2,
+      "revision": 3,
       "cat": 2,
       "sources": [
         "issf",
@@ -3992,7 +4034,7 @@
         "official-index",
         "issf-index"
       ],
-      "ref": "6.3; 7.9; 8.11",
+      "ref": "6.4.3; 7.7.4; 8.11",
       "q": "Który zestaw odległości dotyczy tarczowych konkurencji karabinowych i pistoletowych ISSF?",
       "answers": [
         "10, 25, 50 i 300 m.",
@@ -4006,7 +4048,13 @@
       "officialNumbers": [
         115
       ],
-      "topic": "core-2"
+      "topic": "core-2",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "6.3 dotyczy tarcz i rzutków, 7.9 nie istnieje. Rozdział 7 przepisów karabinowych ISSF 2026 kończy się na 7.8; tabela konkurencji karabinowych to 7.7.4, tabela parametrów 7.7.5, tabela konkurencji pistoletowych 8.11.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "R043",
@@ -4062,7 +4110,7 @@
     },
     {
       "id": "R045",
-      "revision": 2,
+      "revision": 3,
       "cat": 2,
       "sources": [
         "issf",
@@ -4070,7 +4118,7 @@
         "official-index",
         "issf-index"
       ],
-      "ref": "7.9; 8.11",
+      "ref": "7.7.4; 8.11",
       "q": "Która para konkurencji jest rozgrywana na 10 m?",
       "answers": [
         "Karabin pneumatyczny i pistolet pneumatyczny.",
@@ -4084,7 +4132,13 @@
       "officialNumbers": [
         118
       ],
-      "topic": "core-2"
+      "topic": "core-2",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Przepis 7.9 nie istnieje. Rozdział 7 przepisów karabinowych ISSF 2026 kończy się na 7.8; tabela konkurencji karabinowych to 7.7.4, tabela parametrów 7.7.5, tabela konkurencji pistoletowych 8.11.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "R046",
@@ -4114,7 +4168,7 @@
     },
     {
       "id": "R047",
-      "revision": 2,
+      "revision": 3,
       "cat": 2,
       "sources": [
         "issf",
@@ -4122,7 +4176,7 @@
         "official-index",
         "issf-index"
       ],
-      "ref": "7.9; 8.11",
+      "ref": "7.7.4; 8.11",
       "q": "Która para jest rozgrywana na 50 m?",
       "answers": [
         "Karabin małokalibrowy i pistolet dowolny.",
@@ -4136,7 +4190,13 @@
       "officialNumbers": [
         120
       ],
-      "topic": "core-2"
+      "topic": "core-2",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Przepis 7.9 nie istnieje. Rozdział 7 przepisów karabinowych ISSF 2026 kończy się na 7.8; tabela konkurencji karabinowych to 7.7.4, tabela parametrów 7.7.5, tabela konkurencji pistoletowych 8.11.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "R048",
@@ -5438,23 +5498,29 @@
     },
     {
       "id": "P100",
-      "revision": 1,
+      "revision": 2,
       "cat": 0,
       "topic": "duties",
       "sources": [
         "law"
       ],
-      "ref": "art. 22 ust. 1a",
-      "q": "Czy zniszczenie broni i amunicji przez Policję może być formą ich zbycia po utracie uprawnienia?",
+      "ref": "art. 22 ust. 1a, 3–4; art. 23 ust. 2",
+      "q": "Osoba, która utraciła uprawnienie do posiadania broni, nie zbyła jej w ciągu 30 dni. Co musi zrobić?",
       "answers": [
-        "Tak; zbycie może nastąpić w ten sposób.",
-        "Nie; zbycie musi zawsze oznaczać sprzedaż.",
-        "Nie; zbycie musi zawsze oznaczać darowiznę."
+        "Złożyć broń i amunicję do depozytu właściwego organu Policji; później nadal może je zbyć.",
+        "Złożyć broń i amunicję do depozytu Policji; od tej chwili zbycie broni nie jest już możliwe.",
+        "Oddać broń Policji do zniszczenia, bo po 30 dniach zniszczenie zastępuje obowiązek zbycia."
       ],
       "correct": 0,
-      "why": "Ustawa przewiduje także zniszczenie broni i amunicji przez Policję.",
+      "why": "Po 30 dniach broń i amunicję składa się do depozytu (art. 22 ust. 3), a depozyt nie wyklucza późniejszego zbycia (art. 22 ust. 4). Zniszczenie broni w depozycie następuje na wniosek albo za zgodą składającego (art. 23 ust. 2). Obowiązek zbycia wykonuje także pozbawienie broni cech użytkowych (art. 22 ust. 1a).",
       "form": "Rozróżnienie",
-      "verifiedAt": "2026-10-18"
+      "verifiedAt": "2026-10-18",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "krytyczny",
+        "note": "Dotychczasowy klucz był błędny: art. 22 ust. 1a mówi o pozbawieniu broni cech użytkowych, a zniszczenie w depozycie (art. 23 ust. 2) nie jest zbyciem.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "P101",
@@ -6084,23 +6150,29 @@
     },
     {
       "id": "B045",
-      "revision": 1,
+      "revision": 2,
       "cat": 1,
       "topic": "range-scenarios",
       "sources": [
-        "safety"
+        "range"
       ],
-      "ref": "§ 3 pkt 18",
-      "q": "Czy zakaz przebywania na strzelnicy pod wpływem substancji psychoaktywnych obejmuje osobę niestrzelającą?",
+      "ref": "wzorcowy regulamin strzelnic, zał., rozdz. 1 ust. 2 pkt 3",
+      "q": "Czy zakaz przebywania na strzelnicy osób pod wpływem alkoholu lub środków odurzających obejmuje osobę niestrzelającą?",
       "answers": [
         "Tak; dotyczy przebywania na strzelnicy.",
         "Nie; dotyczy wyłącznie oddawania strzałów.",
         "Nie; dotyczy wyłącznie ładowania broni."
       ],
       "correct": 0,
-      "why": "Status obserwatora nie wyłącza zakazu.",
+      "why": "Regulamin strzelnicy zakazuje samego przebywania na jej terenie osób pod wpływem alkoholu lub środków odurzających, więc status obserwatora nie wyłącza zakazu.",
       "form": "Rozróżnienie",
-      "verifiedAt": "2026-10-18"
+      "verifiedAt": "2026-10-18",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Podstawa pochodziła z wersji zasad PZSS z 2019 r.",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "B046",
@@ -6495,24 +6567,30 @@
     },
     {
       "id": "R058",
-      "revision": 1,
+      "revision": 2,
       "cat": 2,
       "topic": "exam-scope",
       "sources": [
         "patent",
         "patent-index"
       ],
-      "ref": "§ 3 ust. 8",
+      "ref": "Regulamin patentu, tekst jednolity uchw. 47/2025: § 3 ust. 8, § 6a, § 26 ust. 3",
       "q": "Na jaki okres nadawany jest patent strzelecki?",
       "answers": [
-        "Bezterminowo.",
-        "Na pięć lat.",
-        "Na jeden rok."
+        "Bez terminu, ale patent wygasa, jeśli posiadacz nie występuje o licencję w terminach regulaminu.",
+        "Na pięć lat; po tym czasie trzeba ponownie zdać cały egzamin patentowy przed komisją PZSS.",
+        "Na czas posiadania pozwolenia na broń sportową; cofnięcie pozwolenia kończy ważność patentu."
       ],
       "correct": 0,
-      "why": "Nie należy mylić patentu z okresowymi uprawnieniami lub ważnością EKB.",
+      "why": "Regulamin nie określa terminu ważności patentu (§ 3 ust. 8), ale zastrzega § 6 i § 6a. Patent wygasa z mocy prawa, gdy posiadacz nie wystąpi o licencję do 31 grudnia roku następującego po roku nadania albo nie odnowi licencji do 31 marca drugiego roku po jej wygaśnięciu. Terminy liczy się od 1 stycznia 2026 r. (§ 26 ust. 3).",
       "form": "Zastosowanie",
-      "verifiedAt": "2026-10-18"
+      "verifiedAt": "2026-10-18",
+      "review": {
+        "audit": "2026-10-18",
+        "severity": "istotny",
+        "note": "Klucz „bezterminowo” pomijał wygaśnięcie patentu z mocy prawa (§ 6a, terminy od 2026-01-01).",
+        "status": "do akceptacji"
+      }
     },
     {
       "id": "R059",
@@ -8380,251 +8458,6 @@
       "verifiedAt": "2026-10-18"
     },
     {
-      "id": "T056",
-      "revision": 1,
-      "cat": 3,
-      "topic": "sport-rifle",
-      "sources": [
-        "cz457"
-      ],
-      "ref": "opis konstrukcji, s. 4",
-      "q": "Jaką konstrukcję zamka ma CZ 457?",
-      "answers": [
-        "Ręcznie powtarzalną.",
-        "Samopowtarzalną.",
-        "Samoczynną."
-      ],
-      "correct": 0,
-      "why": "Producent opisuje ten model jako bolt-action.",
-      "form": "Zastosowanie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "T057",
-      "revision": 1,
-      "cat": 3,
-      "topic": "sport-rifle",
-      "sources": [
-        "cz457"
-      ],
-      "ref": "opis konstrukcji, s. 4",
-      "q": "Jaki rodzaj zapłonu dotyczy karabinka CZ 457?",
-      "answers": [
-        "Boczny.",
-        "Centralny.",
-        "Elektryczny."
-      ],
-      "correct": 0,
-      "why": "To przykład sportowego karabinka bocznego zapłonu.",
-      "form": "Zastosowanie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "T058",
-      "revision": 1,
-      "cat": 3,
-      "topic": "sport-rifle",
-      "sources": [
-        "cz457"
-      ],
-      "ref": "wskaźnik napięcia, s. 7",
-      "q": "Co sygnalizuje wskaźnik napięcia CZ 457?",
-      "answers": [
-        "Napięcie mechanizmu uderzeniowego.",
-        "Obecność naboju w komorze.",
-        "Obecność naboju w magazynku."
-      ],
-      "correct": 0,
-      "why": "Wskaźnik napięcia nie jest wskaźnikiem załadowania.",
-      "form": "Zastosowanie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "T059",
-      "revision": 1,
-      "cat": 3,
-      "topic": "sport-rifle",
-      "sources": [
-        "cz457"
-      ],
-      "ref": "instrukcja użytkowania, s. 5",
-      "q": "Jaką amunicję przewidziano dla wersji CZ 457 Varmint MTR .22 LR?",
-      "answers": [
-        ".22 LR.",
-        ".22 WMR.",
-        ".17 HMR."
-      ],
-      "correct": 0,
-      "why": "Naboje bocznego zapłonu nie są automatycznie zamienne.",
-      "form": "Zastosowanie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "T060",
-      "revision": 1,
-      "cat": 3,
-      "topic": "sport-rifle",
-      "sources": [
-        "cz457"
-      ],
-      "ref": "przyrządy celownicze, s. 7",
-      "q": "Czy podziałka celownika karabinka zastępuje sprawdzenie trafień daną amunicją?",
-      "answers": [
-        "Nie; wskazania są orientacyjne.",
-        "Tak; trafienia nie zależą od amunicji.",
-        "Tak; oznaczenia gwarantują trafienie."
-      ],
-      "correct": 0,
-      "why": "Instrukcja zastrzega wpływ amunicji na trafienia.",
-      "form": "Rozróżnienie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "T061",
-      "revision": 1,
-      "cat": 3,
-      "topic": "sport-rifle",
-      "sources": [
-        "cz457"
-      ],
-      "ref": "konserwacja, s. 8",
-      "q": "Komu powierzyć naprawę wymagającą dalszego rozkładania CZ 457 poza zwykłą obsługą?",
-      "answers": [
-        "Wykwalifikowanemu rusznikarzowi.",
-        "Dowolnemu posiadaczowi patentu.",
-        "Dowolnemu posiadaczowi pozwolenia."
-      ],
-      "correct": 0,
-      "why": "Patent nie jest kwalifikacją rusznikarską.",
-      "form": "Zastosowanie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "T062",
-      "revision": 1,
-      "cat": 3,
-      "topic": "sport-rifle",
-      "sources": [
-        "cz457"
-      ],
-      "ref": "opis konstrukcji, s. 4",
-      "q": "Czy po strzale z CZ 457 następny nabój jest podawany automatycznie jak w broni samopowtarzalnej?",
-      "answers": [
-        "Nie; wymaga obsługi zamka przez strzelca.",
-        "Tak; działa automatycznie po każdym strzale.",
-        "Tak; automatycznie podawana jest cała seria."
-      ],
-      "correct": 0,
-      "why": "Broń powtarzalną odróżnia się od samopowtarzalnej.",
-      "form": "Rozróżnienie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "B061",
-      "revision": 1,
-      "cat": 1,
-      "topic": "safe-equipment",
-      "sources": [
-        "cz457",
-        "safety"
-      ],
-      "ref": "zasady bezpieczeństwa pkt 8",
-      "q": "Podejrzewasz przeszkodę w przewodzie lufy. Czy wolno próbować ją usunąć strzałem?",
-      "answers": [
-        "Nie; należy przerwać używanie broni.",
-        "Tak; przy użyciu słabszego naboju.",
-        "Tak; po zdjęciu przyrządów celowniczych."
-      ],
-      "correct": 0,
-      "why": "Przewód musi być wolny od przeszkód.",
-      "form": "Rozróżnienie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "B062",
-      "revision": 1,
-      "cat": 1,
-      "topic": "safe-equipment",
-      "sources": [
-        "cz457",
-        "safety"
-      ],
-      "ref": "zasady bezpieczeństwa pkt 9",
-      "q": "Nabój ma pękniętą lub odkształconą łuskę. Czy wolno go użyć?",
-      "answers": [
-        "Nie; amunicji uszkodzonej nie używa się.",
-        "Tak; jeśli mieści się w magazynku.",
-        "Tak; jeśli pochodzi z fabrycznego opakowania."
-      ],
-      "correct": 0,
-      "why": "Fabryczne pochodzenie nie usuwa uszkodzenia.",
-      "form": "Rozróżnienie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "B063",
-      "revision": 1,
-      "cat": 1,
-      "topic": "safe-equipment",
-      "sources": [
-        "cz457",
-        "safety"
-      ],
-      "ref": "zasady bezpieczeństwa pkt 15",
-      "q": "Czy przed strzałem wystarcza rozpoznanie samej tarczy?",
-      "answers": [
-        "Nie; trzeba znać także obszar za celem.",
-        "Tak; stan obszaru za tarczą jest nieistotny.",
-        "Tak; jeśli tarcza ma właściwy rozmiar."
-      ],
-      "correct": 0,
-      "why": "Pocisk może przejść przez cel lub go minąć.",
-      "form": "Rozróżnienie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "B064",
-      "revision": 1,
-      "cat": 1,
-      "topic": "safe-equipment",
-      "sources": [
-        "cz457",
-        "safety"
-      ],
-      "ref": "zasady bezpieczeństwa pkt 16",
-      "q": "Dlaczego nie strzela się do twardych płaskich powierzchni i tafli wody?",
-      "answers": [
-        "Ze względu na ryzyko rykoszetu.",
-        "Wyłącznie ze względu na gorszą punktację.",
-        "Wyłącznie ze względu na szybsze chłodzenie lufy."
-      ],
-      "correct": 0,
-      "why": "Kierunek po odbiciu może zagrażać otoczeniu.",
-      "form": "Zastosowanie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
-      "id": "B065",
-      "revision": 1,
-      "cat": 1,
-      "topic": "safe-equipment",
-      "sources": [
-        "cz457",
-        "safety"
-      ],
-      "ref": "zasady bezpieczeństwa pkt 23",
-      "q": "Broń upadła i podejrzewasz uszkodzenie. Czy brak widocznego pęknięcia dowodzi sprawności?",
-      "answers": [
-        "Nie; uszkodzenie może być niewidoczne.",
-        "Tak; kontrola zewnętrzna zawsze wystarcza.",
-        "Tak; jeśli magazynek daje się wyjąć."
-      ],
-      "correct": 0,
-      "why": "Wątpliwości wymagają kontroli fachowej.",
-      "form": "Rozróżnienie",
-      "verifiedAt": "2026-10-18"
-    },
-    {
       "id": "P118",
       "revision": 1,
       "cat": 0,
@@ -9067,16 +8900,6 @@
       "cat": 4
     },
     {
-      "id": "sport-rifle",
-      "title": "Karabinek sportowy: przykład CZ 457",
-      "cat": 3
-    },
-    {
-      "id": "safe-equipment",
-      "title": "Przeszkody, uszkodzenia i bezpieczeństwo sprzętu",
-      "cat": 1
-    },
-    {
       "id": "legal-boundaries",
       "title": "Granice uprawnień i różnice między decyzjami",
       "cat": 0
@@ -9085,7 +8908,7 @@
   "answerDesign": {
     "version": 2,
     "reviewedAt": "2026-10-18",
-    "reviewedCount": 400,
+    "reviewedCount": 388,
     "description": "Jedna poprawna odpowiedź; podobne warianty dotyczące tego samego zagadnienia. Pytania pojęciowe, porównawcze i sytuacyjne."
   }
 }
