@@ -20,7 +20,9 @@ const PZSS = 'https://www.pzss.org.pl/assets/files/';
 // (`tools/monitor.mjs`, sekcja watchPages), a nie aplikacja.
 export const sourceChanges = [
   { id: 'patent', title: 'Regulamin patentu PZSS — tekst jednolity (uchw. nr 47/2025)', url: PZSS + 'licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf', kind: 'sha256' },
-  { id: 'patent-index', title: 'PZSS — załączniki do regulaminu patentu (m.in. zał. nr 7)', url: PZSS + 'licencyjno-patentowa/zalaczniki_regulamin_patent.pdf', kind: 'sha256' },
+  // Plik załączników (zalaczniki_regulamin_patent.pdf) serwer PZSS odrzucał (HTTP 429), więc kontrolujemy
+  // zasady bezpieczeństwa — zał. nr 7, wskazany na stronie egzaminu.
+  { id: 'patent-index', title: 'PZSS — zasady bezpieczeństwa wskazane w regulaminie egzaminu (zał. nr 7)', url: PZSS + 'licencyjno-patentowa/ogolne-zasady-bezpieczenstwa.pdf', kind: 'sha256' },
   { id: 'official-index', title: 'PZSS — regulamin patentu, do którego odnosi się wykaz pytań', url: PZSS + 'licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf', kind: 'sha256' },
   { id: 'safety', title: 'Ogólne zasady bezpieczeństwa PZSS (zał. nr 7 do regulaminu patentu)', url: PZSS + 'licencyjno-patentowa/ogolne-zasady-bezpieczenstwa.pdf', kind: 'sha256' },
   { id: 'storage', title: 'Przechowywanie, noszenie i ewidencjonowanie broni — tekst jednolity', url: 'https://api.sejm.gov.pl/eli/acts/DU/2023/364', kind: 'meta' },

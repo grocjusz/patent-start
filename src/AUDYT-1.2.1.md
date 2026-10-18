@@ -274,7 +274,7 @@ T056–T062 (karabinek CZ 457) i B061–B065. Jedynym źródłem jest instrukcja
 - `patent`: sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patent-strzelecki-2025.pdf → sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf
 - `safety`: sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/ogolne-zasady-bezpieczenstwa-w-sporcie-strzeleckim.pdf → sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/ogolne-zasady-bezpieczenstwa.pdf
 - `issf-index`: links https://www.pzss.org.pl/sedziowie/przepisy-issf-i-interpretacje → sha256 https://www.pzss.org.pl/assets/files/dokumenty/przepisy/kolegium-sedziow/issf/issf-2026/6_general_2.pdf
-- `patent-index`: links https://www.pzss.org.pl/patenty-licencje/terminy-egzaminow → sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/zalaczniki_regulamin_patent.pdf
+- `patent-index`: links https://www.pzss.org.pl/patenty-licencje/terminy-egzaminow → sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/ogolne-zasady-bezpieczenstwa.pdf (plik załączników był niedostępny: HTTP 429)
 - `official-index`: links https://www.pzss.org.pl/patenty-licencje/patent-strzelecki → sha256 https://www.pzss.org.pl/assets/files/licencyjno-patentowa/regulamin-patentowy-tekst-jednolity-uchw-47.pdf
 - `other-index`: links https://www.pzss.org.pl/komisje/komisja-konkurencji-strzeleckich-nie-objetych-przepisami-issf → sha256 https://www.pzss.org.pl/assets/files/regulaminy/zbior-reg.-pzss-vi2025-dla-konkurencji-nieobjetych-przepisami-issf-vi-2025.pdf
 - `cz457`: usunięte razem z zależnymi pytaniami.

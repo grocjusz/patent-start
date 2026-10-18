@@ -92,10 +92,10 @@
     },
     {
       "id": "patent-index",
-      "title": "PZSS — załączniki do regulaminu patentu (m.in. zał. nr 7)",
-      "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/zalaczniki_regulamin_patent.pdf",
+      "title": "PZSS — zasady bezpieczeństwa wskazane w regulaminie egzaminu (zał. nr 7)",
+      "url": "https://www.pzss.org.pl/assets/files/licencyjno-patentowa/ogolne-zasady-bezpieczenstwa.pdf",
       "kind": "sha256",
-      "fingerprint": "PENDING"
+      "fingerprint": "a7f115404557840f0fea0ebf99469e4d94ddc78a411e369b7a8eeb2fad56cc4f"
     },
     {
       "id": "official-list",
