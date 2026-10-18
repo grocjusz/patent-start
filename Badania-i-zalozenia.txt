@@ -118,3 +118,23 @@ patentu i przepisów ISSF nie wykazał nowej zmiany wpływającej na bazę.
 Znana nowelizacja depozytów 2026/1317 od 24.10.2026 zmienia § 10,
 nie sprawdzaną w pytaniu P030 zasadę dostępu z § 8.
 Daty przeglądu całej bazy nie przedłużono: reviewUntil = 2026-11-16.
+
+
+ROZSZERZENIE 1.2.0 / PAKIET 5 — 18.10.2026
+400 pytań (215 nowych), 23 zagadnienia, pięć działów: 134/65/91/62/48.
+Porównanie większych baz: https://egzaminpatentstrzelecki.pl/pytania (517, zawiera też WPA),
+https://patentstrzelecki.eu/ oraz https://www.zaliczpatent.pl/pytania-patent-strzelecki.
+Wykorzystano je do oceny zakresu, bez kopiowania pytań i kluczy.
+Odpowiedzi nowych pytań sprawdzono w źródłach pierwotnych.
+Nowe źródła: PZSS poza ISSF 2025–2028, wykaz dokumentów komisji i instrukcja CZ 457.
+Oficjalny komentarz PZSS potwierdza rozszerzenie szkolenia o inne reguły sportowe:
+https://www.pzss.org.pl/assets/files/aktualnosci/2025/komentarz-do-regulaminu-pat.pdf
+Plan-przygotowania.html zawiera mapę zagadnień, liczby pytań i źródła.
+400 pytań nie stanowi gwarancji zdania ani oficjalnej zamkniętej puli.
+29 grup testów logiki oraz 8 przypadków zgodności monitora Java/Node.
+20 źródeł: brak zmian i błędów pobierania. Wcześniejsze 185 pytań zachowuje rewizje.
+Przegląd całości nadal do 16.11.2026; nie wydłużono terminu.
+
+Aktualizacja Android: zainstaluj 1.2.0 na dotychczasowej aplikacji, bez odinstalowania.
+Nowy APK obsługuje dodatkową domenę źródłową oraz menu zagadnień.
+Nie testowano jeszcze na fizycznym telefonie.
